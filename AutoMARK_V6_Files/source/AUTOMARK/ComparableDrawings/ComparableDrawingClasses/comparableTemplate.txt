@@ -1,0 +1,27 @@
+classdef comparableTemplate < comparingBase
+    %COMPARABLEX This is the class represention of a <>.
+    % Exactly as it seems
+    
+    properties
+        %% All internal properties
+        
+        %% Relations, used for iteration
+        parent = [];
+    end
+    
+    methods
+        function obj = comparableTemplate()
+            %COMPARABLESHEET Construct an instance of this class.
+            % Construction is trivial and all property assignment is done
+            % post construction. Same as the rest of them.
+            obj@comparingBase();
+        end
+        
+        %%
+        function addX(obj, newX)
+            % Adds a new X to the sheet, also links the X up to us
+            obj.childViews = [obj.childViews, newX];
+            newX.parent = obj;
+        end
+    end
+end

@@ -1,0 +1,88 @@
+Automark 5.0
+	Score Table
+		The generated reports now organize the scores for the different views into a single table.
+		The location of the table can be chosen in the settings menu.
+	MarkingTemplateGUI
+		Changes have been made to this GUI to make it more comprehensive and easier to use.
+		Object feature weights will automatically update according to changes made to their children.
+	
+
+Automark 4.0
+	SettingsGUI
+		Control over default weights of features
+	Marking
+		Redistributed marks of features more evenly
+	TemplateGUI
+		Can now create assignment summary which details how grades are distributed across the assignment
+
+
+Automark 3.4
+	SettingsGUI
+		The settings user interface now allows full control over the font size style and colour of the automark report
+	Criterion
+		Added BOM content and col order criterion to the automark report
+		Toleranced dimensions are now being marked
+		Added mass and material criterion
+	BUG fixes
+		Fixed missing name bug which caused a crash
+		Fixed zip file issues when using unpackeclasszip
+	Class report
+		Added a poor performers table to the report
+		Removed unneccesary stuff from report directory
+
+
+Automark 3.3
+	Bug Fixes
+		Fixed bug to do with unable to pull info from model which caused a crash
+		Fixed bug coming from solidworks api not returning a position 
+	Report
+		Text placement no longer overlaps as much
+		Can now mark view types on sheet
+		Can now mark solidmodel mass and material
+		No longer writes view type on top of the view
+	Class Report
+		Automark now generates a class report in pdf format with histograms of student performance
+
+
+AutoMark 3.2
+	Bug Fixes
+		When student submissions had a space at the end of their sheet names that space would get auto trimmed in the extraction process
+	 	to matlab but not trimmed in the image name. Fixed this by trimming the space everywhere
+		Their were missing criterion that were trying to be marked resulting in a crash added a catch statement so these submissions can
+	 	be marked
+		Zip files larger than 400 mb will now be repackaged into multiple zips
+	New Criterion
+		Added a bill of materials font type criterion and a bill of materials font size criterion
+	AutoMacroGUI 
+		Can now run the v6 script without having to be make pointless folders, just select the directory containing the drawing and run
+	 	the macro
+		Addition of a lamp which turns green once the macros have finished running
+	MarkingTemplateGUI
+		The tolerance and other graphics of a feature appear automatically once the feature is selected, to edit the criterion you must
+	 	select it in the active criterion manager
+	MarkingGUI
+		Option to run macros and marking with one button so the user can simply click the run macros and marking button and not have
+	 	to wait and watch for the macros to finish
+		Addition of settings menu which will pop up when the gear image in the top left corner is pressed this can take a second or two
+	 	to load
+	Settings Menu
+		Ability to control the report details: Professor Name, Assignment No, Course Name, Current Semester, Active Email
+		If an email is entered into Active Email an email with the marking log and scores will be sent to the marker upon completion of 
+		the marking, I have seen this fail before and an email will not be sent if the program crashes
+	Marking Log
+		Can see how many files of each type the student submitted
+
+
+AutoMark 3.1
+	AutoMacroGUI
+		Updated AutoMacroGUI to be easier to use for TA's by having radio button selectors for the macros and just a single student folder input
+		Still need to add an other field for macros
+		Black Console with better error messages
+		Error handling for incorrect current directory
+	MarkingTemplateGUI
+		Fixed broken HTML element bug that was in previous version
+		Created a mouse click tree navigation system for the drawing and criterion
+		Simplified layout of elements
+		Added edit fields for tolerances that display the changes on the drawing
+	Automatic Fullscreen
+		For both updated applications

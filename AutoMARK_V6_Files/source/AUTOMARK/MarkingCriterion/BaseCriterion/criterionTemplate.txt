@@ -1,0 +1,44 @@
+classdef criterionTemplate < baseCriterion
+    % Criterion which does X
+    
+    methods
+        function obj = criterionTemplate (recommendedweight)
+            % Construct an instance of this criterion
+            obj.recommendedweight = recommendedweight;
+            obj.description = "Correct if X, Works like Y";
+            obj.tolerancetip = "Tolerance Tip, Delete if None";
+            obj.tolerance.property = "whatever"
+        end
+        
+        function multiplier = evaluateOn(obj, linker, keyFeature, studentReport, relevantSheetHandler, doAnnotations)
+            % Correct if how criterion works
+            
+            % Assume correct
+            multiplier = 0;
+            
+            % You can assert that this actually does link to something, The
+            % way marking works guarentees it!
+            
+            studentFeature = linker.returnPair(keyFeature);
+            
+            % Do some marking, if you determine something is wrong set multiplier to 1 or greater.
+
+            if doAnnotations
+                if multiplier == 0
+                    studentReport.addComment("Correct Statment");
+                else
+                    studentReport.addComment("Incorrect Statement");
+                end
+            endW
+        end
+        
+        % Delete this if not implementing
+        function gfxobjects = showTolerance(obj, keyFeature, relevantSheetHandler)
+            % Function which deals with the tolerancing display on the
+            % marking GUI.
+            % By default its nothing
+            gfxobjects = gobjects(0);
+        end
+    end
+end
+

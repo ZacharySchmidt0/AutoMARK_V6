@@ -1,0 +1,96 @@
+
+
+End of Summer 2019:
+
+
+	Mostly done!
+	Everything is nice and usable, even if just barely so for some things.
+	It still provides a lot of usable feedback to students and is very extensible.
+
+	Still left to do:
+		Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a huge list of things that need to be done!
+
+AUTOMARK:
+	Comparable Drawings:
+		* Complete all the different types of comparable objects
+		* Not currently frozen, properties are subject to change
+	
+	Drawing Linker:
+		* Need to plan a way to compare and link features in a key drawing to a 
+		given drawing, (This view on this sheet corresponds to that view on that sheet)
+		* Likely going to be done in a fairly naive ish way?
+		
+	Marking Template:
+		* Need to apply subtractive rubric model to a bunch of virtual criterion
+		* Annotation Model inside the virtual criterion
+
+		Virtual Criterion:
+			* Need to create the inheritance heirarchy of tolerance types
+			* Need to create each of the individual classes for those
+			* Need to create each virtual criterion type, AKA Dimension Location criterion and whatnot.
+	
+	Marked Template:
+		* Need some kind of Output Excel file? Might not work on this till later since its really specific.
+		* Definitley will work on an internally representable "marked drawing" format though. Likely will be 
+		 fairly simplistic though.
+		 
+		 
+		
+	Marker:
+		Glue together the Automark part of Automark, basically make it so you can call some functions and have
+		some marking take place.
+
+GUI:
+	Not Started as of yet! But is an important component
+	
+	Needs to handle the following things:
+		* Glue together the rest of the program pretty much (make sure components work)
+		* Some kind of visuals provided as well for doing things (pop up boxes for files?)
+		* 
+
+	
+REPORTTOOLS:
+	Word docs, Not started, likely won't actually be done!
+
+Visual Basic Script:
+	* Currently looking really nasty, likely needs to be fully refactored to work.
+	* #TASK won't see the arguments, only loads 300 lines?
+
+	* Doesn't seem to follow the API correctly? It doesn't use the Interface types and just kind of
+	makes lots of problems. This refers to using the i-interfaces instead of direct objects.
+	* This is probably a non-issue?
+
+	* Should be fixable with a more or less 1-1 remapping!
+	* This makes going from Excel -> Comparable Drawing a very complicated endevour
+
+Misc:
+	* Does MATLAB support proper garbage collection
+		YES!
+	
+	* Is lots of array concatination acceptable for speed (its the classic MATLAB bad practice thing to do)!
+		Its okay as it turns out, its bad, like really bad, but computers are still more than fast enough.
+
+
+
+
+
+Touch Ups (Improvement suggestions for iterative design)
+
+1. Actually Mark the TitleBlock
+2. Read in extraneous information (iterate through all annotations and grab simple information)

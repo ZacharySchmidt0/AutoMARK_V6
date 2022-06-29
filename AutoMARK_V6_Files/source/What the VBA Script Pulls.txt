@@ -1,0 +1,186 @@
+This document defines what the VBA script pulls and what it is, the SolidWorks API is pretty poorly documented
+in regards to this.
+
+
+""""" OLD NOTES """""""""""""""""
+
+The following notes are old and probably not very useful, But I left them in incase you want to read
+
+1. The Object Oriented SolidWorks API
+
+Before an understanding of what the VBA script pulls and how, it is important to understand how the SolidWorks API works.
+A general understanding of the api would take too much time. So a minimal understanding is described here.
+
+http://help.solidworks.com/2019/english/api/sldworksapiprogguide/GettingStarted/Understanding_the_SolidWorks_API_Class_Hierarchy.htm?id=a74013c80ab84efb9fbc638ded796e28#Pg0
+
+
+The top level object is the solidworks application. (Application.SldWorks is a SldWorks.SldWorks)
+All files are a IModelDoc2, This an assembly, a drawing, and a part.
+A drawing is a subclass of an IModelDoc2, Its specifically an IDrawingDoc.
+
+IModelDoc2 ->
+http://help.solidworks.com/2019/english/api/sldworksapi/SolidWorks.interop.sldworks~SolidWorks.interop.sldworks.IModelDoc2.html
+
+IDrawingDoc ->
+http://help.solidworks.com/2019/english/api/sldworksapi/SolidWorks.interop.sldworks~SolidWorks.interop.sldworks.IDrawingDoc.html
+
+Side point: Ignore the differences created in the API between I methods and regular methods. It does not make a difference in the VBA and the actual
+reasoning behind the differences is complex. Use regular methods if possible.
+
+The drawing doc contains sheets (no big suprise)
+ISheet ->
+http://help.solidworks.com/2019/english/api/sldworksapi/SolidWorks.Interop.sldworks~SolidWorks.Interop.sldworks.ISheet.html?id=d0dc08585aee4f04bc51ce7d3b320511#Pg0
+
+The sheets aren't stored in an array though!
+Whats actually stored in an array are the sheet names.
+arrayofnames = (somedrawingdoc).GetSheetNames()
+
+Then you can get the sheets one of two ways
+
+ActivateSheet(SheetName)
+GetActiveSheet
+
+or just Sheet(SheetName).
+
+You need to activate it anyway.
+
+
+""""""""""" NEW NOTES """""""""""""
+
+The following notes are new, A lot less detail is put in but it highlights the way the VBA script works
+
+
+Whole Drawing Files
+	ModelDoc2
+		GetTitle -> DRW_NAME
+		
+		SummaryInfo -> DRW_Author
+					-> CDate
+					-> LSDate
+					-> LS_By
+	ModelExt
+		CustomPropertyManager -> Gets all the custom properties
+	
+	DrawingDoc
+		GetSheetCount -> #Sheets
+
+
+
+Drawing Sheets
+	Sheet
+		GetName -> Sheet Name
+	View
+		GetOutline -> View_Xmin		An outline of the entire sheet
+				   -> View_Ymin
+				   -> View_Xmax
+				   -> View_Ymax
+	
+		Position -> View_X			Sheet Origin (Should be 0,0)
+				 -> View_Y
+
+		GetProperties2 -> paperSize (swDwgPaperSizes_e)
+					   -> TemplateIn (swDwgTemplates_e)
+					   -> Scale1 (Numerator)
+					   -> Scale2 (Denominator)
+					   -> firstAngle (0 -> Third angle, 1 (or anything not 0) -> First angle)
+					   -> Width ( Should be = View_Xmax = View_Xmax - View_Xmin)
+					   -> Height
+		
+	Custom Functions
+		numViews (View) -> NumViews
+		
+		countAnnotations (View) -> Num Balloons
+		
+		countAnnotationsTotal (View) -> NumS_Dim/Cl/CM/Dat/B
+
+
+
+Views
+	View
+		GetName2 -> View Name
+		
+		GetOutline -> View_Xmin		Boundry box of the view
+				   -> View_Ymin
+				   -> View_Xmax
+				   -> View_Ymax
+		
+		Position -> View_X		View Origin, Usually, but not nessesarily, (View_Xmin + View_Xmax)/2
+				 -> View_Y 
+				 
+		
+		Type -> View Type (swDrawingViewTypes_e)
+		
+		ScaleRatio
+				 -> Scale_1	(Numerator)
+				 -> Scale_2	(Denominator)
+		
+		GetOrientationName -> Orientation		Top/Left/Right/Isometric/Etc
+		
+		GetBaseView	-> Base View (we just grab the name)
+		
+		GetDisplayMode2 -> Display Style (swDisplayMode_e)
+		
+		GetDisplayTangentEdges2 -> Tangent Lines (swDisplayTangentEdges_e) {0: Hidden, 1: Visible, 2:Fonted}
+		
+		GetAlignment -> Alignment (swViewAlignment_e) {0: None, 1: Children, 2: Parent, 3: Both}
+		
+	Custom Functions
+			getDependViewCount -> Dependent Views		This is a custom function based on the API call with the same name
+														But the Api call is bugged
+														
+			getDependentViews -> All the Depends at the end of the list
+			
+			countAnnotations -> NumDim/CL/CM/Dat/Balloons
+			
+Tables
+	tableAnnotation
+		Type -> Table Type (swTableAnnotationType_e)
+		
+		RowCount -> Num_Rows (Does not include hidden)
+		
+		ColumnCount -> Num_Cols (Does not include hidden)
+		
+		AnchorType -> AnchorType (swBOMConfigurationAnchorType_e) {1: top left, 2: top right, 3: lower left, 4: lower right}
+								This defines what St_X and St_Y actually correspond to!
+	
+		Computed from iteration -> Table_Width, Table_Height
+	
+		GetColumnType3 -> Col Type (swColumnTypeStatus_e)
+	
+	annotation
+		GetName -> TableName
+		
+		GetPosition -> St_X		This is actually an annoying complicated mess, its not a consistant location
+					-> St_Y		the corner positions actually need to be computed.
+					
+
+Balloons (Really its just all notes!)
+	Note
+		GetText -> Text (Text inside the note)
+		
+		GetBomBalloonText -> TextUpper	(This is the upper text)
+						  -> TextLower	(Unused, but by default its quantity)
+		
+		isBOMBalloon -> isBOMBalloon		If the balloon is a bom balloon or a regular note
+		
+		isStackedBalloon -> isStackedBalloon		If its part of a magnetic line stack
+		
+		GetBalloonInfo -> Center_X			The actual center of the Balloon
+					   -> Center_Y
+					   
+		GetAttachPos   -> Attach_X			Where the balloon is attached on the view
+					   -> Attach_Y
+					   
+		GetLeaderInfo -> Point_X			A series of points which dictate how the leader on the balloon looks
+					  -> Point_Y
+					  
+		GetArrowHeadInfo -> ArrowLength
+						 -> Head Length
+						 -> Head Width
+						 -> Head Style
+	Annotation
+		GetName -> BalloonName
+		
+		isDangling -> isDangling
+		
+		GetPosition -> Top Left corner of the text box

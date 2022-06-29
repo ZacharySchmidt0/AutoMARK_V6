@@ -1,0 +1,350 @@
+Marking Report
+
+Marking "model1_Ass1_No5" of type Drawing
+ | Drawing Sheets were found to be in order!
+ | No Extra Drawing Sheets were found!
+ | Giving leway by reducing deductions
+ | 
+ | Marking "Sheet1" of type Sheet
+ |  | Name of Sheet "Sheet1" was found to match
+ |  | Papersize of Sheet "Sheet1" was found to match
+ |  | Scale of Sheet "Sheet1" was found to match
+ |  | Template of Sheet "Sheet1" was found to match
+ |  | No extra BOMs were found!
+ |  | No extra views were found!
+ |  | Balloon lines did not intersect!
+ |  | Giving leway by reducing deductions
+ |  | 
+ |  | Marking "Drawing View1" of type View
+ |  |  | View "Drawing View1" was in a suitable location
+ |  |  | Scale of View "Drawing View1" was found to match
+ |  |  | Display Style of View "Drawing View1" was found to match
+ |  |  | Type of View "Drawing View1" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Drawing View1" was properly projected
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "RD1" of type Dimension
+ |  |  |  | Dimension RD1 was properly attached!
+ |  |  |  | Dimension "RD1" was on the correct view
+ |  |  |  | Dimension "RD1" was in a suitable location
+ |  |  |  | Dimension "RD1" had appropriate arrows
+ |  |  |  | Dimension "RD1" had the correct value!
+ |  |  |  | Dimension "RD1" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD1" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD2" of type Dimension
+ |  |  |  | Dimension RD2 was properly attached!
+ |  |  |  | Dimension "RD2" was on the correct view
+ |  |  |  | Dimension "RD2" was in a suitable location
+ |  |  |  | Dimension "RD2" had appropriate arrows
+ |  |  |  | Dimension "RD2" had the correct value!
+ |  |  |  | Dimension "RD2" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD2" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD3" of type Dimension
+ |  |  |  | Dimension RD3 was properly attached!
+ |  |  |  | Dimension "RD3" was on the correct view
+ |  |  |  | Dimension "RD3" was in a suitable location
+ |  |  |  | Dimension "RD3" had appropriate arrows
+ |  |  |  | Dimension "RD3" had the correct value!
+ |  |  |  | Dimension "RD3" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD3" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD4" of type Dimension
+ |  |  |  | Dimension RD4 was properly attached!
+ |  |  |  | Dimension "RD4" was on the correct view
+ |  |  |  | Dimension "RD4" was in a suitable location
+ |  |  |  | Dimension "RD4" had appropriate arrows
+ |  |  |  | Dimension "RD4" had the correct value!
+ |  |  |  | Dimension "RD4" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD4" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD5" of type Dimension
+ |  |  |  | Dimension RD5 was properly attached!
+ |  |  |  | Dimension "RD5" wasn't on the correct view
+ |  |  |  | Dimension "RD5" wasn't in a suitable location
+ |  |  |  | Dimension "RD5" had appropriate arrows
+ |  |  |  | Dimension "RD5" had the correct value!
+ |  |  |  | Dimension "RD5" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD5" of type Dimension
+ |  |  | Deduction 3/3
+ |  |  | 
+ |  |  | Marking "DetailItem218" of type Centerline
+ |  |  |  | Centerline DetailItem218 was properly attached!
+ |  |  |  | Centerline "DetailItem218" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem218" of type Centerline
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem219" of type Centerline
+ |  |  |  | Centerline DetailItem219 was properly attached!
+ |  |  |  | Centerline "DetailItem219" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem219" of type Centerline
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem205-0" of type Centermark
+ |  |  |  | Centermark DetailItem205-0 was properly attached!
+ |  |  |  | Centermark "DetailItem205-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem205-0" had the correct style
+ |  |  |  | Centermark "DetailItem205-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem205-0" had correct angle
+ |  |  |  | Centermark "DetailItem205-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem205-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem205-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem205-0" had appropriate size
+ |  |  |  | Centermark "DetailItem205-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem205-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem214" of type Datum
+ |  |  |  | Datum DetailItem214 was properly attached!
+ |  |  |  | Datum "DetailItem214" was on the correct view
+ |  |  |  | Datum "DetailItem214" was in a suitable location
+ |  |  |  | Datum "DetailItem214" had a base in a suitable location
+ |  |  |  | Datum "DetailItem214" was labeled correctly
+ |  |  |  | Datum "DetailItem214" had an appropriate display style
+ |  |  |  | Datum "DetailItem214" had a properly filled in triangle
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem214" of type Datum
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem215" of type Datum
+ |  |  |  | Datum DetailItem215 was properly attached!
+ |  |  |  | Datum "DetailItem215" was on the correct view
+ |  |  |  | Datum "DetailItem215" was in a suitable location
+ |  |  |  | Datum "DetailItem215" had a base in a suitable location
+ |  |  |  | Datum "DetailItem215" was labeled correctly
+ |  |  |  | Datum "DetailItem215" had an appropriate display style
+ |  |  |  | Datum "DetailItem215" had a properly filled in triangle
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem215" of type Datum
+ |  |  | Deduction 0/5
+ |  | Done Marking "Drawing View1" of type View
+ |  | Deduction 3/48
+ |  | 
+ |  | Marking "Drawing View2" of type View
+ |  |  | View "Drawing View2" was in a suitable location
+ |  |  | Scale of View "Drawing View2" was found to match
+ |  |  | Display Style of View "Drawing View2" was found to match
+ |  |  | Type of View "Drawing View2" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Drawing View2" was properly projected
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "RD2" of type Dimension
+ |  |  |  | Dimension RD2 was properly attached!
+ |  |  |  | Dimension "RD2" was on the correct view
+ |  |  |  | Dimension "RD2" was in a suitable location
+ |  |  |  | Dimension "RD2" had appropriate arrows
+ |  |  |  | Dimension "RD2" had the correct value!
+ |  |  |  | Dimension "RD2" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD2" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD3" of type Dimension
+ |  |  |  | Dimension RD3 was properly attached!
+ |  |  |  | Dimension "RD3" was on the correct view
+ |  |  |  | Dimension "RD3" was in a suitable location
+ |  |  |  | Dimension "RD3" had appropriate arrows
+ |  |  |  | Dimension "RD3" had the correct value!
+ |  |  |  | Dimension "RD3" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD3" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD1" of type Dimension
+ |  |  |  | Dimension RD1 was properly attached!
+ |  |  |  | Dimension "RD1" was on the correct view
+ |  |  |  | Dimension "RD1" was in a suitable location
+ |  |  |  | Dimension "RD1" had appropriate arrows
+ |  |  |  | Dimension "RD1" had the correct value!
+ |  |  |  | Dimension "RD1" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD1" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD4" of type Dimension
+ |  |  |  | Dimension RD4 was properly attached!
+ |  |  |  | Dimension "RD4" was on the correct view
+ |  |  |  | Dimension "RD4" was in a suitable location
+ |  |  |  | Dimension "RD4" had appropriate arrows
+ |  |  |  | Dimension "RD4" had the correct value!
+ |  |  |  | Dimension "RD4" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD4" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD5" of type Dimension
+ |  |  |  | Dimension RD5 was properly attached!
+ |  |  |  | Dimension "RD5" was on the correct view
+ |  |  |  | Dimension "RD5" was in a suitable location
+ |  |  |  | Dimension "RD5" had appropriate arrows
+ |  |  |  | Dimension "RD5" had the correct value!
+ |  |  |  | Dimension "RD5" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD5" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem209" of type Centerline
+ |  |  |  | Centerline DetailItem209 was properly attached!
+ |  |  |  | Centerline "DetailItem209" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem209" of type Centerline
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem216-0" of type Centermark
+ |  |  |  | Centermark DetailItem216-0 was properly attached!
+ |  |  |  | Centermark "DetailItem216-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem216-0" had the correct style
+ |  |  |  | Centermark "DetailItem216-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem216-0" had correct angle
+ |  |  |  | Centermark "DetailItem216-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem216-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem216-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem216-0" had appropriate size
+ |  |  |  | Centermark "DetailItem216-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem216-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem216-1" of type Centermark
+ |  |  |  | Centermark DetailItem216-1 was properly attached!
+ |  |  |  | Centermark "DetailItem216-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem216-1" had the correct style
+ |  |  |  | Centermark "DetailItem216-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem216-1" had correct angle
+ |  |  |  | Centermark "DetailItem216-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem216-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem216-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem216-1" had appropriate size
+ |  |  |  | Centermark "DetailItem216-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem216-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem213" of type Datum
+ |  |  |  | Datum DetailItem213 was properly attached!
+ |  |  |  | Datum "DetailItem213" was on the correct view
+ |  |  |  | Datum "DetailItem213" was in a suitable location
+ |  |  |  | Datum "DetailItem213" had a base in a suitable location
+ |  |  |  | Datum "DetailItem213" was labeled correctly
+ |  |  |  | Datum "DetailItem213" had an appropriate display style
+ |  |  |  | Datum "DetailItem213" had a properly filled in triangle
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem213" of type Datum
+ |  |  | Deduction 0/5
+ |  | Done Marking "Drawing View2" of type View
+ |  | Deduction 0/46
+ |  | 
+ |  | Marking "Section View A-A" of type View
+ |  |  | View "Section View A-A" was in a suitable location
+ |  |  | Scale of View "Section View A-A" was found to match
+ |  |  | Display Style of View "Section View A-A" was found to match
+ |  |  | Type of View "Section View A-A" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Section View A-A" was properly projected
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "RD2" of type Dimension
+ |  |  |  | Dimension RD2 was properly attached!
+ |  |  |  | Dimension "RD2" was on the correct view
+ |  |  |  | Dimension "RD2" was in a suitable location
+ |  |  |  | Dimension "RD2" had appropriate arrows
+ |  |  |  | Dimension "RD2" had the correct value!
+ |  |  |  | Dimension "RD2" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD2" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD3" of type Dimension
+ |  |  |  | Dimension RD3 was properly attached!
+ |  |  |  | Dimension "RD3" was on the correct view
+ |  |  |  | Dimension "RD3" was in a suitable location
+ |  |  |  | Dimension "RD3" had appropriate arrows
+ |  |  |  | Dimension "RD3" had the correct value!
+ |  |  |  | Dimension "RD3" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD3" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD1" of type Dimension
+ |  |  |  | Dimension RD1 was properly attached!
+ |  |  |  | Dimension "RD1" was on the correct view
+ |  |  |  | Dimension "RD1" was in a suitable location
+ |  |  |  | Dimension "RD1" had appropriate arrows
+ |  |  |  | Dimension "RD1" had the correct value!
+ |  |  |  | Dimension "RD1" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD1" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "RD4" of type Dimension
+ |  |  |  | Dimension RD4 was properly attached!
+ |  |  |  | Dimension "RD4" was on the correct view
+ |  |  |  | Dimension "RD4" was in a suitable location
+ |  |  |  | Dimension "RD4" had appropriate arrows
+ |  |  |  | Dimension "RD4" had the correct value!
+ |  |  |  | Dimension "RD4" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD4" of type Dimension
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem210" of type Centerline
+ |  |  |  | Centerline DetailItem210 was properly attached!
+ |  |  |  | Centerline "DetailItem210" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem210" of type Centerline
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem217" of type Centerline
+ |  |  |  | Centerline DetailItem217 was properly attached!
+ |  |  |  | Centerline "DetailItem217" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem217" of type Centerline
+ |  |  | Deduction 0/2
+ |  | Done Marking "Section View A-A" of type View
+ |  | Deduction 0/30
+ |  | 
+ |  | Marking "Drawing View4" of type View
+ |  |  | View "Drawing View4" was in a suitable location
+ |  |  | Scale of View "Drawing View4" was found to match
+ |  |  | Display Style of View "Drawing View4" was found to match
+ |  |  | Type of View "Drawing View4" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Drawing View4" was properly projected
+ |  |  | Giving leway by reducing deductions
+ |  | Done Marking "Drawing View4" of type View
+ |  | Deduction 0/14
+ | Done Marking "Sheet1" of type Sheet
+ | Deduction 3/177
+Done Marking "model1_Ass1_No5" of type Drawing
+Deduction 3/194
+
+Overall Mark 191 / 194
+
+End of Report

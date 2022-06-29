@@ -1,0 +1,31 @@
+<html style = "font-size: 14px; font-family: Consolas; background-color: White;border: 2px solid black;
+  border-radius: 5px;">
+<script type = "text/javascript">
+		function setup(htmlComponent){
+			htmlComponent.addEventListener("DataChanged", function(event) {
+				/*
+				if(document.getElementById("log").is(':empty'))
+				{
+					document.getElementById("log").insertAdjacentHTML("afterbegin","\n");
+				}
+				*/
+				// get error code from string
+				console.log(htmlComponent.Data);
+				// remove error code
+				document.getElementById("log").innerHTML = "";
+				var output = htmlComponent.Data;
+				document.getElementById("log").insertAdjacentHTML("afterbegin","<br>");
+				document.getElementById("log").insertAdjacentHTML("afterbegin",
+					"<span style='font-size: 20px;background: #e1e1e1;border: 1px solid black; margin: 1px 0px;display:inline-block;padding-left:2px; padding-right:2px;'>" + output + "</span>");
+				if(htmlComponent.Data.length == 0)
+				{
+					document.getElementById("log").innerHTML = "";
+				}		
+			})
+		}
+</script>
+<body>
+	<div id = "log">
+	</div>
+</body>
+</html>

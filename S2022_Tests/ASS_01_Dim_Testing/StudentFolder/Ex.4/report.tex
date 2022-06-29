@@ -1,0 +1,168 @@
+% This is the Template LATEX file used to create the Automark PDFS
+% Feel free to modify as you see fit.
+%
+% MATLAB runs a find and replace routine when producing latex files
+% 
+% It looks for variables enclosed by two percent symbols
+%
+% Full list of variables
+%
+%	 	- Students Name
+%	*SHEETIMAGES* 	- Where all the sheet image code is inserted (using incgraph)
+%	*ANNOTATIONTEXT* 	- Pastes all of the text from annotations, Possibly useful?
+%	272			- Score
+%   291		- Maximum Score
+%   Prof. David S. Nobes		- Prof name
+%   Mec E 468 Numerical Simulation in Mechanical Engineering Design		- Name of course
+%   Win 2022			- Current semester
+%   Assignment No 1	- Current assignment
+%	31-Dec-2019 13:57:09	-date of drawing creation
+%	29-Jun-2022 10:16:38	-date of drawing last save
+%	29-Dec-2019 12:49:16	-date of model creation
+%	07-Sep-2021 10:33:58		-date of model last save
+
+
+\documentclass{article}
+
+\usepackage{incgraph}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{dblfloatfix}
+%\newlength{\savedpageheight}
+%\newlength{\savedpagewidth}
+
+	\addtolength{\oddsidemargin}{-1.0in}
+	\addtolength{\evensidemargin}{-1.0in}
+	\addtolength{\textwidth}{1.75in}
+
+	\addtolength{\topmargin}{-1.25in}
+	\addtolength{\textheight}{1.75in}
+
+% These are arbitrary TIKZ Commands, It will be pasted into the overlay!
+% Read up the 880 page tikz manual if you want to do some fancy things.
+% If you don't want an overlay, do not delete these and instead make the command an empty one!
+\newcommand{\keySheetOverlay}{\node[above left, text=red] at (16.375in,2.358in) {\huge Assignment Solution} ;}
+\newcommand{\studentSheetOverlay}{\node[above left, text=red] at (16.375in,2.358in) {\huge Student Submission} ;}
+\newcommand{\studentmarkedSheetOverlay}{\node[above left, text=red] at (16.375in,2.358in) {\huge Automark of Student Submission} ;}
+\DeclareRobustCommand{\greencheck}{
+  \tikz\fill[scale=0.4, color=0, 212, 28]
+  (0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;
+}
+\begin{document}
+	\pagenumbering{gobble}
+	%\maketitle
+	%  Letterhead of the department
+\begin{center}
+\includegraphics[scale=0.5]{./IncludeImages/LetterHead.jpg}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+%	HEADING SECTIONS
+%----------------------------------------------------------------------------------------
+%\textsc{\LARGE University of Alberta}\\[1.0 cm] % Name of your university/college
+%\textsc{\Large MecE 265 Engineering Graphics and CAD}\\[0.5cm] % Major heading such as course name
+\begin{center}
+\textbf{\huge Mec E 468 Numerical Simulation in Mechanical Engineering Design}\\[1cm] % Major heading such as course name
+\textsc{\LARGE AutoMARK REPORT}\\[0.5cm] % Minor heading such as course title
+\end{center}
+%Adding some space
+ \bigskip
+ %----------------------------------------------------------------------------------------
+%	AUTHOR SECTION
+%----------------------------------------------------------------------------------------
+\linespread{1.5} % linspacing
+\begin{flushleft} \large
+\textbf{Semester: Win 2022}\\
+\textbf{Instructor: Prof. David S. Nobes}\\
+\textbf{Student Name: }\\
+\textbf{Assignment: Assignment No 1}\\ 
+PROCESSING DATE: {\large \today}\\[0.5cm] % Date, change the \today to a set date if you want to be precise
+%{\large \DTMnow}\\[2cm] % current data nad time ; works with datetime2 package
+\end{flushleft}
+%
+%----------------------------------------------------------------------------------------
+%	SCORE SECTION
+%----------------------------------------------------------------------------------------
+\begin{center}
+ \large \emph {{AUTOMark Assessment Grade:}}
+ \large \textbf{272 out of 291}\\[0.5 cm] %
+ \large \emph {{AUTOMark Recommended Grade:}}
+ \large \textbf{93 out of 100}\\[0.5 cm] %
+\end{center}
+\vspace{1.0\baselineskip} % Adding desired space
+\begin{flushleft}
+\textbf{NOTE: This grade is preliminary only and needs to be confirmed.}\\[1.0 cm] %
+\end{flushleft}
+%----------------------------------------------------------------------------------------
+%	Other Notes SECTION
+%----------------------------------------------------------------------------------------
+The following pages include each of the drawings in the following order:
+\begin{itemize}
+\itemsep0em %setting items spacing
+	\item Your submission 
+	\item Your submission marked by AutoMARK
+	\item The solution
+\end{itemize}
+%
+\textbf{Other important points:}
+\begin{itemize}
+\itemsep0em %setting items spacing
+	\item Examples are given on eClass of how to interpret the mark-up symbols used by AUTOMark.
+	\item If you have any questions, discuss with you TA in the next lab time.
+\end{itemize}
+
+\begin{flushleft} \large
+\\[0.5cm]
+DRAWING CREATION DATE: {31-Dec-2019 13:57:09}\\
+DRAWING LAST SAVE DATE: {29-Jun-2022 10:16:38}\\
+MODEL CREATION DATE: {29-Dec-2019 12:49:16}\\
+MODEL LAST SAVE DATE: {07-Sep-2021 10:33:58}\\
+\end{flushleft}
+
+\pagebreak
+ \begin{samepage}
+\addtolength{\topmargin}{-.25in}
+
+\linespread{1.5}
+\begin{center}
+\begin{table*}[!b]
+\centering
+	\begin{tabular}{|c|c|}
+	 \large \emph  Symbol/Colour &  \large \emph  Meaning \\ 
+		{\greencheck} & No deductions on feature  \\ 
+		\textcolor[RGB]{255, 0, 0 }{Colour }& Incorrect value \\ 
+		\textcolor[RGB]{0, 0, 0 }{Colour } & Miscellaneous error \\ 
+		\textcolor[RGB]{0, 0, 255 }{Colour } & Incorrect Position \\ 
+		\textcolor[RGB]{237, 177, 32 }{Colour } & Unrecognized feature \\ 
+		\textcolor[RGB]{255, 0, 0 }{Colour } & Missing feature \\ 
+		\textcolor{yellow }{?}& Feature not found on key\\  
+\end{tabular}
+\end{table}
+\end{center}
+ \large \emph AutoMARK details:
+\begin{itemize}
+\itemsep0em %setting items spacing
+	\item Sheetnames should contain only alphabetical characters 
+	\item Weights of feature properties are set by the marker
+	\item AutoMARK v 4.0 software written and designed by Owen Stadlwieser
+\end{itemize}
+ \large \emph AutoMARK Criterion (The weights of these criterion are decided by the marker):
+\begin{itemize}
+\itemsep0em %setting items spacing
+	\item DRAWING: SheetOrder, ExtraSheets
+	\item SHEET: SheetPaperSize, SheetScale, SheetTemplate, SheetExtraBOMS, SheetExtraViews, SheetViewTypes, SheetIntersectingBallons
+	\item BILLOFMATERIALS: BOMTableType, BOMNumberColumns, BOMNumberRows, BOMPosition, BOMTableHeight, BOMTableWidth, BOMFontType, BOMFontSize
+	\item VIEW: ViewScale, ViewDisplayStyle, ViewExtraDimension, ViewPosition, ViewExtraCenterMarks, ViewMass, ViewMaterial, ViewExtraDatums, ViewWrongProjection, ViewExtraCenterlines
+	\item DIMENSION: DimensionDangling, DimensionWrongView, DimensionPosition, DimensionArrowSide, DimensionValue, DimensionBadText
+	\item CENTERLINE: CenterlineDangling, CenterlinePosition
+	\item CENTERMARK: CentermarkDangling, CentermarkPosition, CentermarkShowlines, CentermarkAngle, CentermarkConnectionLines, CentermarkExtensions, CentermarkGap, CentermarkSize, CentermarkGroupedCorrectly
+	\item DATUM: DatumDangling, DatumWrongView, DatumPosition, DatumLabel, DatumDisplayStyle, DatumFilledTriangle
+	\item Ballon: BallonDangling, BallonPosition
+\end{itemize}
+ \end{samepage}
+	\incgraph[overlay={\studentSheetOverlay}]{"./Sheets/OTHO".png}
+\incgraph[overlay={\studentmarkedSheetOverlay}]{"./ReportImages/OTHO".png}
+\incgraph[overlay={\keySheetOverlay}]{"./KeySheets/OTHO".png}
+
+\end{document}

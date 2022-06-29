@@ -1,0 +1,306 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="1905683475" file="C:\Documents\3.1_AUTOMARK\4.0_AUTOMARK\AutoMARK.prj" location="C:\Documents\3.1_AUTOMARK\4.0_AUTOMARK" name="AutoMARK" preferred-package-location="C:\Documents\3.1_AUTOMARK\4.0_AUTOMARK\AutoMARK\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>AutoMARK</param.appname>
+    <param.icon />
+    <param.icons />
+    <param.version>4.0</param.version>
+    <param.authnamewatermark>David Nobes Jehanzeb Mira Owen Stadlwieser</param.authnamewatermark>
+    <param.email />
+    <param.company>AutoMARK</param.company>
+    <param.summary>Software designed to facilitate the correction and grading of solidworks drawings</param.summary>
+    <param.description />
+    <param.screenshot>C:\Users\Ostad\Pictures\splishsplash.png</param.screenshot>
+    <param.guid />
+    <param.installpath.string>\AutoMARK\AutoMARK\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo>C:\Users\Ostad\Pictures\splishsplash.png</param.logo>
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\AutoMARK\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\AutoMARK\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\AutoMARK\for_redistribution</param.output>
+    <param.logdir>${PROJECT_ROOT}\AutoMARK</param.logdir>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>false</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <param.native.matlab>false</param.native.matlab>
+    <param.checkbox>false</param.checkbox>
+    <param.example />
+    <param.help.text>Syntax 
+	  -? 
+	 
+ Input Arguments 
+	 -?  print help on how to use the application 
+	 input arguments</param.help.text>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.email />
+      <param.description />
+      <param.guid />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.install.notes />
+      <param.target.install.notes />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.logdir />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.create.log />
+      <param.log.file />
+      <param.native.matlab />
+      <param.checkbox />
+      <param.example />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\source\GUI\MarkingGUI\MarkingGUI.mlapp</file>
+    </fileset.main>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\documentation\AutoMARK User Manual.pdf</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableBalloon.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableBOM.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableCenterline.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableCentermark.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableDatum.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableDimension.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableDrawing.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableSheet.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableTemplate.txt</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableView.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparableViewModel.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ComparableDrawingClasses\comparingBase.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillBalloonHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillBOMHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillCenterlineHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillCentermarkHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillDatamHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillDimensionHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillDrawingHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillSheetHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillSolidModelHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\fillViewHeaders.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\linkViews.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\makeComparableDrawing.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\ComparableDrawings\ConstructFromExcel\makeComparableDrawingExcel.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareBalloon.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareBOM.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareCenterline.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareCentermark.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareDatum.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareDimension.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareMatrix.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareSheets.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareSolidModel.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareTemplate.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\compareViews.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\DimensionComparing.xlsx</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\normalizeScore.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\comparisonFunctions\pairwisePeaks.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\drawingLinker.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\performDrawingLinking.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\viewArithmetic\relatedViews.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\DynamicDrawingLinker\viewArithmetic\transformThrough.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\executeMarking.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\executeMarkingOnFolder.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BalloonCriterion\criterionBalloonPostion.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BalloonCriterion\findAllIntersections.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BaseCriterion\baseCriterion.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BaseCriterion\criterionAlwaysWrong.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BaseCriterion\criterionColoursClass.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BaseCriterion\criterionColoursSettings.txt</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BaseCriterion\criterionFeatureDangling.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BaseCriterion\criterionMissing.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BaseCriterion\criterionSets.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BaseCriterion\criterionTemplate.txt</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BaseCriterion\DefaultWeights.txt</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMColumnOrder.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMContent.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMFontSize.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMFontType.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMNumberColumns.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMNumberRows.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMPosition.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMTableHeight.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMTableType.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\criterionBOMTableWidth.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\BOMCriterion\hbomBox.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CenterlineCriterion\criterionCenterlinePostion.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DatumCriterion\criterionDatumBasePosition.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DatumCriterion\criterionDatumDisplayStyle.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DatumCriterion\criterionDatumFilledTriangle.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DatumCriterion\criterionDatumLabel.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DatumCriterion\criterionDatumPostion.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DatumCriterion\criterionDatumWrongView.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DatumCriterion\insideRectangles.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DimensionCriterion\criterionDimensionArrowSide.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DimensionCriterion\criterionDimensionBadText.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DimensionCriterion\criterionDimensionPostion.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DimensionCriterion\criterionDimensionValue.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DimensionCriterion\criterionDimensionWrongView.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DimensionCriterion\degreesorradians.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DrawingCriterion\criterionDrawingExtraSheets.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\DrawingCriterion\criterionDrawingSheetOrder.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\SheetCriterion\criterionSheetExtraBOMs.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\SheetCriterion\criterionSheetExtraViews.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\SheetCriterion\criterionSheetIntersectingBalloons.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\SheetCriterion\criterionSheetName.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\SheetCriterion\criterionSheetPaperSize.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\SheetCriterion\criterionSheetScale.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\SheetCriterion\criterionSheetTemplateIN.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\SheetCriterion\criterionSheetViewTypes.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingReports\markingReport.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingReports\markingReport2.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingReports\reportCell.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingTemplate\markingTemplate.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\buildTextForMarkingGuide.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\debugprint.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\getDefaultWeights.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\getSettingsArray.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\imagePlotting.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\levenshtein.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\perpDistance.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\plotCross_OLD.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\regexSplit.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\runMacros.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\Misc\sendMail.m</file>
+      <file>${PROJECT_ROOT}\source\Export_DRW_and_SM_v6.swp</file>
+      <file>${PROJECT_ROOT}\source\Export_DRW_and_SM_vEclass.swp</file>
+      <file>${PROJECT_ROOT}\source\GUI\AutoMacroGUI\AutoMacroGUI.mlapp</file>
+      <file>${PROJECT_ROOT}\source\GUI\AutoMacroGUI\OutputLog.html</file>
+      <file>${PROJECT_ROOT}\source\GUI\AutoMacroGUI\StudentFolders.html</file>
+      <file>${PROJECT_ROOT}\source\GUI\DrawingEngine\createDoublePair.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\DrawingEngine\imageHandler.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\DrawingEngine\imageHandler2.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\hPlotArrow.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\hPlotCircle.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\hPlotCross.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\hPlotLine.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\hPlotRectangle.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\hPlotText.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\hprincipleLocation.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\hrectangleLocation.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\htemplateLocation.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting2\README.txt</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\mCreateFeature.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\mPlotArrow.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\mPlotCircle.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\mPlotCross.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\mPlotDoubleArrow.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\mPlotLine.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\mPlotLine.prj</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\mPlotRectangle.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\mPlotText.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\README.txt</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting3\sanitizeText.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting\plotArrow.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting\plotCross.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting\principleLocation.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\Highlighting\rectangleLocation.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\infoGUI\infoGUI.mlapp</file>
+      <file>${PROJECT_ROOT}\source\GUI\MarkingGUI\info.png</file>
+      <file>${PROJECT_ROOT}\source\GUI\MarkingGUI\MarkingGUI.mlapp</file>
+      <file>${PROJECT_ROOT}\source\GUI\MarkingGUI\OutputLog.html</file>
+      <file>${PROJECT_ROOT}\source\GUI\MarkingGUI\settings.png</file>
+      <file>${PROJECT_ROOT}\source\GUI\moveRelativetoSheet.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\moveRelativeToView.m</file>
+      <file>${PROJECT_ROOT}\source\GUI\settingsGUI\SettingsGUI.mlapp</file>
+      <file>${PROJECT_ROOT}\source\GUI\TemplateGUI\MarkingTemplateGUI.mlapp</file>
+      <file>${PROJECT_ROOT}\source\GUI\TemplateGUI\SolidworksDrawingImageIconGUI.pdn</file>
+      <file>${PROJECT_ROOT}\source\GUI\TemplateGUI\SolidworksDrawingImageIconGUI.png</file>
+      <file>${PROJECT_ROOT}\source\GUI\TemplateGUI\SolidworksDrawingImageIconGUI2.png</file>
+      <file>${PROJECT_ROOT}\source\GUI\TemplateGUI\SolidworksDrawingImageIconGUI3.png</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\automark password.txt</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\classpdftemplate.log</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\classpdftemplate.tex</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\createClassReport.m</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\createStudentPDF.m</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\DefaultReportSettings.txt</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\LetterHead.jpg</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\studentpdftemplate.aux</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\studentpdftemplate.log</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\studentpdftemplate.synctex.gz</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\studentpdftemplate.tex</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\studentpdftemplate_V2.log</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\LatexPrinting\studentpdftemplate_V2.tex</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\PDFRead\iText-4.2.0-com.itextpdf.jar</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\PDFRead\pdfRead.m</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\ReadyEclassZip.m</file>
+      <file>${PROJECT_ROOT}\source\REPORTTOOLS\RepackEclassZip.m</file>
+    </fileset.resources>
+    <fileset.package />
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\criterionCentermarkAngle.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\criterionCentermarkConnectionLines.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\criterionCentermarkExtensions.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\criterionCentermarkGap.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\criterionCentermarkGroupedCorrectly.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\criterionCentermarkMarkSize.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\criterionCentermarkPosition.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\criterionCentermarkShowlines.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\criterionCentermarkStyle.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\drawCentermarkGroup.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\CentermarkCriterion\findCircleGivenPoints.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewDisplayStyle.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewExtraCenterlines.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewExtraCentermarks.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewExtraDatums.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewExtraDimensions.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewMass.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewMaterial.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewPosition.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewScale.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewTangentLines.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\criterionViewWrongProjection.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingCriterion\ViewCriterion\typeToString.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingTemplate\makeTemplatefromKey.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingTemplate\simpleTemplateIterator.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingTemplate\templateCell.m</file>
+      <file>${PROJECT_ROOT}\source\AUTOMARK\MarkingTemplate\validateMarkingTemplate.m</file>
+    </fileset.depfun>
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\AutoMARK\for_testing" name="AutoMARK.exe" optional="false">C:\Documents\3.1_AUTOMARK\4.0_AUTOMARK\AutoMARK\for_testing\AutoMARK.exe</file>
+      <file location="${PROJECT_ROOT}\AutoMARK\for_testing" name="splash.png" optional="false">C:\Documents\3.1_AUTOMARK\4.0_AUTOMARK\AutoMARK\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\AutoMARK\for_testing" name="readme.txt" optional="true">C:\Documents\3.1_AUTOMARK\4.0_AUTOMARK\AutoMARK\for_testing\readme.txt</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2020a</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

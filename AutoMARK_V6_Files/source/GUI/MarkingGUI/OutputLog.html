@@ -1,0 +1,47 @@
+<html style = "font-size: 14px; font-family: Consolas">
+<script type = "text/javascript">
+		function setup(htmlComponent){
+			htmlComponent.addEventListener("DataChanged", function(event) {
+				/*
+				if(document.getElementById("log").is(':empty'))
+				{
+					document.getElementById("log").insertAdjacentHTML("afterbegin","\n");
+				}
+				*/
+				// get error code from string
+				errorCode = htmlComponent.Data.substr(-1);
+				// remove error code
+				var output = htmlComponent.Data.substr(0, htmlComponent.Data.length-1);
+				// print message to screen
+				if(errorCode == "0")
+				{
+					if(output == "Clear")
+					{
+						document.getElementById("log").innerHTML = ""
+					}
+					else
+					{
+						document.getElementById("log").insertAdjacentHTML("afterbegin","<br>");
+						document.getElementById("log").insertAdjacentHTML("afterbegin", output);
+					}
+				}
+				else if(errorCode == "1")
+				{
+					document.getElementById("log").insertAdjacentHTML("afterbegin","<br>");
+					document.getElementById("log").insertAdjacentHTML("afterbegin",
+						"<span style='color:red'>" + output + "</span>");
+				}
+				else{
+					document.getElementById("log").insertAdjacentHTML("afterbegin","<br>");
+					document.getElementById("log").insertAdjacentHTML("afterbegin",
+						"<span style='color:green'>" + output + "</span>");
+				} 
+				
+			})
+		}
+</script>
+<body>
+	<div id = "log">
+	</div>
+</body>
+</html>

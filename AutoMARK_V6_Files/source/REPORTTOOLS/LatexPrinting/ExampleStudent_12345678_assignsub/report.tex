@@ -1,0 +1,42 @@
+% This is the Template LATEX file used to create the Automark PDFS
+% Feel free to modify as you see fit.
+%
+% MATLAB runs a find and replace routine when producing latex files
+% 
+% It looks for variables enclosed by two percent symbols
+%
+% Full list of variables
+%
+%	STUDENTNAME 	- Students Name
+%	SHEETIMAGES 	- Where all the sheet image code is inserted (using incgraph)
+%	ANNOTATIONTEXT 	- Pastes all of the text from annotations, Possibly useful?
+%	SCORE			- Score
+%   SCOREOUTOF		- Maximum Score
+
+\documentclass{article}
+
+\usepackage{incgraph}
+\usepackage{tikz}
+
+\newlength{\savedpageheight}
+\newlength{\savedpagewidth}
+
+% These are arbitrary TIKZ Commands, It will be pasted into the overlay!
+% Read up the 880 page tikz manual if you want to do some fancy things.
+% If you don't want an overlay, do not delete these and instead make the command an empty one!
+\newcommand{\keySheetOverlay}{\node[above left, text=red] at (16.375in,2.358in) {\huge Assignment Solution} ;}
+\newcommand{\studentSheetOverlay}{\node[above left, text=red] at (16.375in,2.358in) {\huge Student Submission} ;}
+\newcommand{\studentmarkedSheetOverlay}{\node[above left, text=red] at (16.375in,2.358in) {\huge Automark of Student Submission} ;}
+
+\title{AUTOMARK REPORT}
+\date{}
+
+\begin{document}
+	\pagenumbering{gobble}
+	\maketitle
+
+	\incgraph[overlay={\studentSheetOverlay}]{"./Sheets/Sheet1".png}
+\incgraph[overlay={\studentmarkedSheetOverlay}]{"./ReportImages/Sheet1".png}
+\incgraph[overlay={\keySheetOverlay}]{"./KeySheets/Sheet1".png}
+
+\end{document}
