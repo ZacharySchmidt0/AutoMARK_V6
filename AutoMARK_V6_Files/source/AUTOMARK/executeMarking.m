@@ -138,7 +138,7 @@ studentReport.updateDisplay()
         studentReport.addComment(sprintf("Done Marking ""%s"" of type %s", studentFeature.name, studentFeature.commonTypeName));
         studentReport.addComment(sprintf("Deduction %g/%g", resultingCell.weight - resultingCell.getScore(), resultingCell.weight));
         % plot the view score in different corners based on where view is
-        if(resultingCell.weight - resultingCell.getScore()) == 0
+        if((resultingCell.weight - resultingCell.getScore()) == 0) && ~all(keyTemplateCell.criteriondisabled)
             if ~strcmp(studentFeature.commonTypeName, "Drawing")
                 mPlotText(crsheethandler, colours.correct, hprincipleLocation(studentFeature),...
                                 char(hex2dec('2713')), colours.fontSize, 'Center',colours.fontName);

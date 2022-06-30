@@ -1,0 +1,1027 @@
+Marking Report
+
+Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
+ | Drawing Sheets were found to be in order!
+ | No Extra Drawing Sheets were found!
+ | Giving leway by reducing deductions
+ | 
+ | Marking "Exploded" of type Sheet
+ |  | Name of Sheet "Exploded" was found to match
+ |  | Papersize of Sheet "Exploded" was found to match
+ |  | Scale of Sheet "Exploded" was found to match
+ |  | Template of Sheet "Exploded" was found to match
+ |  | No extra BOMs were found!
+ |  | No extra views were found!
+ |  | View types of Sheet "Exploded" was found to match
+ |  | Balloon lines did not intersect!
+ |  | Type of View Mass was found to match
+ |  | Giving leway by reducing deductions
+ |  | 
+ |  | Marking "Drawing View15" of type View
+ |  |  | View "Drawing View15" wasn't in a suitable location
+ |  |  | Scale of View "Drawing View15" was found to match
+ |  |  | Display Style of View "Drawing View15" was found to match
+ |  |  | Tangent Edges on View "Drawing View15" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Drawing View15" was properly projected
+ |  |  | Type of View Material "Pure Gold" was found to match
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "DetailItem450" of type Centerline
+ |  |  |  | Centerline DetailItem450 was properly attached!
+ |  |  |  | Centerline "DetailItem450" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem450" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem451" of type Centerline
+ |  |  |  | Centerline DetailItem451 was properly attached!
+ |  |  |  | Centerline "DetailItem451" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem451" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem452" of type Centerline
+ |  |  |  | Centerline DetailItem452 was properly attached!
+ |  |  |  | Centerline "DetailItem452" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem452" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem453" of type Centerline
+ |  |  |  | Centerline DetailItem453 was properly attached!
+ |  |  |  | Centerline "DetailItem453" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem453" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem454" of type Centerline
+ |  |  |  | Centerline DetailItem454 was properly attached!
+ |  |  |  | Centerline "DetailItem454" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem454" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem455" of type Centerline
+ |  |  |  | Centerline DetailItem455 was properly attached!
+ |  |  |  | Centerline "DetailItem455" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem455" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem433" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem433 was properly attached!
+ |  |  |  | Balloon "DetailItem433" wasn't in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem433" of type Balloon/Note
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem440" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem440 was properly attached!
+ |  |  |  | Balloon "DetailItem440" wasn't in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem440" of type Balloon/Note
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem441" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem441 was properly attached!
+ |  |  |  | Balloon "DetailItem441" wasn't in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem441" of type Balloon/Note
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem442" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem442 was properly attached!
+ |  |  |  | Balloon "DetailItem442" wasn't in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem442" of type Balloon/Note
+ |  |  | Deduction 0/2
+ |  | Done Marking "Drawing View15" of type View
+ |  | Deduction 6/48
+ |  | 
+ |  | Marking "DetailItem439" of type Bill of Materials Table
+ |  |  | Table type of Table "DetailItem439" was found to match
+ |  |  | Number of columns of Table "DetailItem439" was found to match
+ |  |  | Content of Table "DetailItem439" was found to match
+ |  |  | Number of columns of Table "DetailItem439" was found to match
+ |  |  | Number of rows of Table "DetailItem439" was found to match
+ |  |  | Table "DetailItem439" was in a suitable location
+ |  |  | Height of Table "DetailItem439" was acceptable
+ |  |  | Width of Table "DetailItem439" was acceptable
+ |  |  | Font type of Table "DetailItem439" did not match key
+ |  |  | Font size of Table "DetailItem439" did not match key
+ |  |  | Giving leway by reducing deductions
+ |  | Done Marking "DetailItem439" of type Bill of Materials Table
+ |  | Deduction 2/40
+ | Done Marking "Exploded" of type Sheet
+ | Deduction 8/137
+ | 
+ | Marking "AssemblySection" of type Sheet
+ |  | Name of Sheet "AssemblySection" was found to match
+ |  | Papersize of Sheet "AssemblySection" was found to match
+ |  | Scale of Sheet "AssemblySection" was found to match
+ |  | Template of Sheet "AssemblySection" was found to match
+ |  | No extra BOMs were found!
+ |  | No extra views were found!
+ |  | View types of Sheet "AssemblySection" was found to match
+ |  | Balloon lines did not intersect!
+ |  | Type of View Mass was found to match
+ |  | Giving leway by reducing deductions
+ |  | 
+ |  | Marking "Drawing View1" of type View
+ |  |  | View "Drawing View1" wasn't in a suitable location
+ |  |  | Scale of View "Drawing View1" was found to match
+ |  |  | Display Style of View "Drawing View1" was found to match
+ |  |  | Tangent Edges on View "Drawing View1" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Drawing View1" was properly projected
+ |  |  | Type of View Material "Pure Gold" was found to match
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "DetailItem202-0" of type Centermark
+ |  |  |  | Centermark DetailItem202-0 was properly attached!
+ |  |  |  | Centermark "DetailItem202-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem202-0" had the correct style
+ |  |  |  | Centermark "DetailItem202-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem202-0" had correct angle
+ |  |  |  | Centermark "DetailItem202-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem202-0" had inappropriate length extension lines
+ |  |  |  | Centermark "DetailItem202-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem202-0" had appropriate size
+ |  |  |  | Centermark "DetailItem202-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem202-0" of type Centermark
+ |  |  | Deduction 1/5
+ |  |  | 
+ |  |  | Marking "DetailItem443-0" of type Centermark
+ |  |  |  | Centermark DetailItem443-0 was properly attached!
+ |  |  |  | Centermark "DetailItem443-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem443-0" had the correct style
+ |  |  |  | Centermark "DetailItem443-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem443-0" had correct angle
+ |  |  |  | Centermark "DetailItem443-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem443-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem443-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem443-0" had appropriate size
+ |  |  |  | Centermark "DetailItem443-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem443-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem443-1" of type Centermark
+ |  |  |  | Centermark DetailItem443-1 was properly attached!
+ |  |  |  | Centermark "DetailItem443-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem443-1" had the correct style
+ |  |  |  | Centermark "DetailItem443-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem443-1" had correct angle
+ |  |  |  | Centermark "DetailItem443-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem443-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem443-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem443-1" had appropriate size
+ |  |  |  | Centermark "DetailItem443-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem443-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem443-2" of type Centermark
+ |  |  |  | Centermark DetailItem443-2 was properly attached!
+ |  |  |  | Centermark "DetailItem443-2" was in a suitable location
+ |  |  |  | Centermark "DetailItem443-2" had the correct style
+ |  |  |  | Centermark "DetailItem443-2" had correct extended lines
+ |  |  |  | Centermark "DetailItem443-2" had correct angle
+ |  |  |  | Centermark "DetailItem443-2" had correct connection lines
+ |  |  |  | Centermark "DetailItem443-2" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem443-2" had appropriate gaps
+ |  |  |  | Centermark "DetailItem443-2" had appropriate size
+ |  |  |  | Centermark "DetailItem443-2" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem443-2" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem443-3" of type Centermark
+ |  |  |  | Centermark DetailItem443-3 was properly attached!
+ |  |  |  | Centermark "DetailItem443-3" was in a suitable location
+ |  |  |  | Centermark "DetailItem443-3" had the correct style
+ |  |  |  | Centermark "DetailItem443-3" had correct extended lines
+ |  |  |  | Centermark "DetailItem443-3" had correct angle
+ |  |  |  | Centermark "DetailItem443-3" had correct connection lines
+ |  |  |  | Centermark "DetailItem443-3" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem443-3" had appropriate gaps
+ |  |  |  | Centermark "DetailItem443-3" had appropriate size
+ |  |  |  | Centermark "DetailItem443-3" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem443-3" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem443-4" of type Centermark
+ |  |  |  | Centermark DetailItem443-4 was properly attached!
+ |  |  |  | Centermark "DetailItem443-4" was in a suitable location
+ |  |  |  | Centermark "DetailItem443-4" had the correct style
+ |  |  |  | Centermark "DetailItem443-4" had correct extended lines
+ |  |  |  | Centermark "DetailItem443-4" had correct angle
+ |  |  |  | Centermark "DetailItem443-4" had correct connection lines
+ |  |  |  | Centermark "DetailItem443-4" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem443-4" had appropriate gaps
+ |  |  |  | Centermark "DetailItem443-4" had appropriate size
+ |  |  |  | Centermark "DetailItem443-4" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem443-4" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem443-5" of type Centermark
+ |  |  |  | Centermark DetailItem443-5 was properly attached!
+ |  |  |  | Centermark "DetailItem443-5" was in a suitable location
+ |  |  |  | Centermark "DetailItem443-5" had the correct style
+ |  |  |  | Centermark "DetailItem443-5" had correct extended lines
+ |  |  |  | Centermark "DetailItem443-5" had correct angle
+ |  |  |  | Centermark "DetailItem443-5" had correct connection lines
+ |  |  |  | Centermark "DetailItem443-5" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem443-5" had appropriate gaps
+ |  |  |  | Centermark "DetailItem443-5" had appropriate size
+ |  |  |  | Centermark "DetailItem443-5" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem443-5" of type Centermark
+ |  |  | Deduction 0/5
+ |  | Done Marking "Drawing View1" of type View
+ |  | Deduction 7/57
+ |  | 
+ |  | Marking "Section View A-A" of type View
+ |  |  | View "Section View A-A" wasn't in a suitable location
+ |  |  | Scale of View "Section View A-A" was found to match
+ |  |  | Display Style of View "Section View A-A" was found to match
+ |  |  | Tangent Edges on View "Section View A-A" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Section View A-A" was properly projected
+ |  |  | Type of View Material "Pure Gold" was found to match
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "DetailItem783" of type Centerline
+ |  |  |  | Centerline DetailItem783 was properly attached!
+ |  |  |  | Centerline "DetailItem783" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem783" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem850" of type Centerline
+ |  |  |  | Centerline DetailItem850 was properly attached!
+ |  |  |  | Centerline "DetailItem850" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem850" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem931" of type Centerline
+ |  |  |  | Centerline DetailItem931 was properly attached!
+ |  |  |  | Centerline "DetailItem931" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem931" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem502" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem502 was properly attached!
+ |  |  |  | Balloon "DetailItem502" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem502" of type Balloon/Note
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem503" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem503 was properly attached!
+ |  |  |  | Balloon "DetailItem503" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem503" of type Balloon/Note
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem504" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem504 was properly attached!
+ |  |  |  | Balloon "DetailItem504" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem504" of type Balloon/Note
+ |  |  | Deduction 0/2
+ |  |  | 
+ |  |  | Marking "DetailItem505" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem505 was properly attached!
+ |  |  |  | Balloon "DetailItem505" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem505" of type Balloon/Note
+ |  |  | Deduction 0/2
+ |  | Done Marking "Section View A-A" of type View
+ |  | Deduction 6/39
+ |  | 
+ |  | Marking "DetailItem493" of type Bill of Materials Table
+ |  |  | Table type of Table "DetailItem493" was found to match
+ |  |  | Number of columns of Table "DetailItem493" was found to match
+ |  |  | Content of Table "DetailItem493" was found to match
+ |  |  | Number of columns of Table "DetailItem493" was found to match
+ |  |  | Number of rows of Table "DetailItem493" was found to match
+ |  |  | Table "DetailItem493" was in a suitable location
+ |  |  | Height of Table "DetailItem493" was acceptable
+ |  |  | Width of Table "DetailItem493" was acceptable
+ |  |  | Font type of Table "DetailItem493" did not match key
+ |  |  | Font size of Table "DetailItem493" did not match key
+ |  |  | Giving leway by reducing deductions
+ |  | Done Marking "DetailItem493" of type Bill of Materials Table
+ |  | Deduction 2/40
+ | Done Marking "AssemblySection" of type Sheet
+ | Deduction 15/185
+ | 
+ | Marking "Rim" of type Sheet
+ |  | Name of Sheet "Rim" was found to match
+ |  | Papersize of Sheet "Rim" was found to match
+ |  | Scale of Sheet "Rim" was found to match
+ |  | Template of Sheet "Rim" was found to match
+ |  | No extra BOMs were found!
+ |  | No extra views were found!
+ |  | View types of Sheet "Rim" was found to match
+ |  | Balloon lines did not intersect!
+ |  | Type of View Mass was found to match
+ |  | Giving leway by reducing deductions
+ |  | 
+ |  | Marking "Drawing View5" of type View
+ |  |  | View "Drawing View5" was in a suitable location
+ |  |  | Scale of View "Drawing View5" was found to match
+ |  |  | Display Style of View "Drawing View5" was found to match
+ |  |  | Tangent Edges on View "Drawing View5" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Drawing View5" was properly projected
+ |  |  | Type of View Material "Pure Gold" was found to match
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "RD2" of type Dimension
+ |  |  |  | Dimension RD2 was properly attached!
+ |  |  |  | Dimension "RD2" was on the correct view
+ |  |  |  | Dimension "RD2" was in a suitable location
+ |  |  |  | Dimension "RD2" had appropriate arrows
+ |  |  |  | Dimension "RD2" had the correct value!
+ |  |  |  | Dimension "RD2" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD2" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem282-0" of type Centermark
+ |  |  |  | Centermark DetailItem282-0 was properly attached!
+ |  |  |  | Centermark "DetailItem282-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem282-0" had the correct style
+ |  |  |  | Centermark "DetailItem282-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem282-0" had correct angle
+ |  |  |  | Centermark "DetailItem282-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem282-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem282-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem282-0" had appropriate size
+ |  |  |  | Centermark "DetailItem282-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem282-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem282-1" of type Centermark
+ |  |  |  | Centermark DetailItem282-1 was properly attached!
+ |  |  |  | Centermark "DetailItem282-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem282-1" had the correct style
+ |  |  |  | Centermark "DetailItem282-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem282-1" had correct angle
+ |  |  |  | Centermark "DetailItem282-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem282-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem282-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem282-1" had appropriate size
+ |  |  |  | Centermark "DetailItem282-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem282-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem282-2" of type Centermark
+ |  |  |  | Centermark DetailItem282-2 was properly attached!
+ |  |  |  | Centermark "DetailItem282-2" was in a suitable location
+ |  |  |  | Centermark "DetailItem282-2" had the correct style
+ |  |  |  | Centermark "DetailItem282-2" had correct extended lines
+ |  |  |  | Centermark "DetailItem282-2" had correct angle
+ |  |  |  | Centermark "DetailItem282-2" had correct connection lines
+ |  |  |  | Centermark "DetailItem282-2" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem282-2" had appropriate gaps
+ |  |  |  | Centermark "DetailItem282-2" had appropriate size
+ |  |  |  | Centermark "DetailItem282-2" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem282-2" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem282-3" of type Centermark
+ |  |  |  | Centermark DetailItem282-3 was properly attached!
+ |  |  |  | Centermark "DetailItem282-3" was in a suitable location
+ |  |  |  | Centermark "DetailItem282-3" had the correct style
+ |  |  |  | Centermark "DetailItem282-3" had correct extended lines
+ |  |  |  | Centermark "DetailItem282-3" had correct angle
+ |  |  |  | Centermark "DetailItem282-3" had correct connection lines
+ |  |  |  | Centermark "DetailItem282-3" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem282-3" had appropriate gaps
+ |  |  |  | Centermark "DetailItem282-3" had appropriate size
+ |  |  |  | Centermark "DetailItem282-3" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem282-3" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem282-4" of type Centermark
+ |  |  |  | Centermark DetailItem282-4 was properly attached!
+ |  |  |  | Centermark "DetailItem282-4" was in a suitable location
+ |  |  |  | Centermark "DetailItem282-4" had the correct style
+ |  |  |  | Centermark "DetailItem282-4" had correct extended lines
+ |  |  |  | Centermark "DetailItem282-4" had correct angle
+ |  |  |  | Centermark "DetailItem282-4" had correct connection lines
+ |  |  |  | Centermark "DetailItem282-4" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem282-4" had appropriate gaps
+ |  |  |  | Centermark "DetailItem282-4" had appropriate size
+ |  |  |  | Centermark "DetailItem282-4" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem282-4" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem282-5" of type Centermark
+ |  |  |  | Centermark DetailItem282-5 was properly attached!
+ |  |  |  | Centermark "DetailItem282-5" was in a suitable location
+ |  |  |  | Centermark "DetailItem282-5" had the correct style
+ |  |  |  | Centermark "DetailItem282-5" had correct extended lines
+ |  |  |  | Centermark "DetailItem282-5" had correct angle
+ |  |  |  | Centermark "DetailItem282-5" had correct connection lines
+ |  |  |  | Centermark "DetailItem282-5" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem282-5" had appropriate gaps
+ |  |  |  | Centermark "DetailItem282-5" had appropriate size
+ |  |  |  | Centermark "DetailItem282-5" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem282-5" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem474" of type Datum
+ |  |  |  | Datum DetailItem474 was properly attached!
+ |  |  |  | Datum "DetailItem474" was on the correct view
+ |  |  |  | Datum "DetailItem474" was in a suitable location
+ |  |  |  | Datum "DetailItem474" had a base in a suitable location
+ |  |  |  | Datum "DetailItem474" was labeled correctly
+ |  |  |  | Datum "DetailItem474" had an appropriate display style
+ |  |  |  | Datum "DetailItem474" had a properly filled in triangle
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem474" of type Datum
+ |  |  | Deduction 0/5
+ |  | Done Marking "Drawing View5" of type View
+ |  | Deduction 0/62
+ |  | 
+ |  | Marking "Detail View B (1 : 2)" of type View
+ |  |  | View "Detail View B (1 : 2)" was in a suitable location
+ |  |  | Scale of View "Detail View B (1 : 2)" was found to match
+ |  |  | Display Style of View "Detail View B (1 : 2)" was found to match
+ |  |  | Tangent Edges on View "Detail View B (1 : 2)" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Detail View B (1 : 2)" was properly projected
+ |  |  | Type of View Material "Pure Gold" was found to match
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "RD2" of type Dimension
+ |  |  |  | Dimension RD2 was properly attached!
+ |  |  |  | Dimension "RD2" was on the correct view
+ |  |  |  | Dimension "RD2" was in a suitable location
+ |  |  |  | Dimension "RD2" had appropriate arrows
+ |  |  |  | Dimension "RD2" had the correct value!
+ |  |  |  | Dimension "RD2" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD2" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD1" of type Dimension
+ |  |  |  | Dimension RD1 was properly attached!
+ |  |  |  | Dimension "RD1" was on the correct view
+ |  |  |  | Dimension "RD1" was in a suitable location
+ |  |  |  | Dimension "RD1" had appropriate arrows
+ |  |  |  | Dimension "RD1" had the correct value!
+ |  |  |  | Dimension "RD1" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD1" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD3" of type Dimension
+ |  |  |  | Dimension RD3 was properly attached!
+ |  |  |  | Dimension "RD3" was on the correct view
+ |  |  |  | Dimension "RD3" was in a suitable location
+ |  |  |  | Dimension "RD3" had appropriate arrows
+ |  |  |  | Dimension "RD3" had the correct value!
+ |  |  |  | Dimension "RD3" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD3" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem291-0" of type Centermark
+ |  |  |  | Centermark DetailItem291-0 was properly attached!
+ |  |  |  | Centermark "DetailItem291-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem291-0" had the correct style
+ |  |  |  | Centermark "DetailItem291-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem291-0" had correct angle
+ |  |  |  | Centermark "DetailItem291-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem291-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem291-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem291-0" had appropriate size
+ |  |  |  | Centermark "DetailItem291-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem291-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem291-1" of type Centermark
+ |  |  |  | Centermark DetailItem291-1 was properly attached!
+ |  |  |  | Centermark "DetailItem291-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem291-1" had the correct style
+ |  |  |  | Centermark "DetailItem291-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem291-1" had correct angle
+ |  |  |  | Centermark "DetailItem291-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem291-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem291-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem291-1" had appropriate size
+ |  |  |  | Centermark "DetailItem291-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem291-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem291-2" of type Centermark
+ |  |  |  | Centermark DetailItem291-2 was properly attached!
+ |  |  |  | Centermark "DetailItem291-2" was in a suitable location
+ |  |  |  | Centermark "DetailItem291-2" had the correct style
+ |  |  |  | Centermark "DetailItem291-2" had correct extended lines
+ |  |  |  | Centermark "DetailItem291-2" had correct angle
+ |  |  |  | Centermark "DetailItem291-2" had correct connection lines
+ |  |  |  | Centermark "DetailItem291-2" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem291-2" had appropriate gaps
+ |  |  |  | Centermark "DetailItem291-2" had appropriate size
+ |  |  |  | Centermark "DetailItem291-2" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem291-2" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem291-3" of type Centermark
+ |  |  |  | Centermark DetailItem291-3 was properly attached!
+ |  |  |  | Centermark "DetailItem291-3" was in a suitable location
+ |  |  |  | Centermark "DetailItem291-3" had the correct style
+ |  |  |  | Centermark "DetailItem291-3" had correct extended lines
+ |  |  |  | Centermark "DetailItem291-3" had correct angle
+ |  |  |  | Centermark "DetailItem291-3" had correct connection lines
+ |  |  |  | Centermark "DetailItem291-3" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem291-3" had appropriate gaps
+ |  |  |  | Centermark "DetailItem291-3" had appropriate size
+ |  |  |  | Centermark "DetailItem291-3" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem291-3" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem291-4" of type Centermark
+ |  |  |  | Centermark DetailItem291-4 was properly attached!
+ |  |  |  | Centermark "DetailItem291-4" was in a suitable location
+ |  |  |  | Centermark "DetailItem291-4" had the correct style
+ |  |  |  | Centermark "DetailItem291-4" had correct extended lines
+ |  |  |  | Centermark "DetailItem291-4" had correct angle
+ |  |  |  | Centermark "DetailItem291-4" had correct connection lines
+ |  |  |  | Centermark "DetailItem291-4" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem291-4" had appropriate gaps
+ |  |  |  | Centermark "DetailItem291-4" had appropriate size
+ |  |  |  | Centermark "DetailItem291-4" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem291-4" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem291-5" of type Centermark
+ |  |  |  | Centermark DetailItem291-5 was properly attached!
+ |  |  |  | Centermark "DetailItem291-5" was in a suitable location
+ |  |  |  | Centermark "DetailItem291-5" had the correct style
+ |  |  |  | Centermark "DetailItem291-5" had correct extended lines
+ |  |  |  | Centermark "DetailItem291-5" had correct angle
+ |  |  |  | Centermark "DetailItem291-5" had correct connection lines
+ |  |  |  | Centermark "DetailItem291-5" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem291-5" had appropriate gaps
+ |  |  |  | Centermark "DetailItem291-5" had appropriate size
+ |  |  |  | Centermark "DetailItem291-5" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem291-5" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | A feature DetailItem289 of type Balloon/Note was expected, but was missing on the student drawing!
+ |  | Done Marking "Detail View B (1 : 2)" of type View
+ |  | Deduction 2/69
+ |  | 
+ |  | Marking "Drawing View14" of type View
+ |  |  | View "Drawing View14" was in a suitable location
+ |  |  | Scale of View "Drawing View14" was found to match
+ |  |  | Display Style of View "Drawing View14" was found to match
+ |  |  | Tangent Edges on View "Drawing View14" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Drawing View14" was properly projected
+ |  |  | Type of View Material "Pure Gold" was found to match
+ |  |  | Giving leway by reducing deductions
+ |  | Done Marking "Drawing View14" of type View
+ |  | Deduction 0/22
+ |  | 
+ |  | Marking "Section View A-A" of type View
+ |  |  | View "Section View A-A" was in a suitable location
+ |  |  | Scale of View "Section View A-A" was found to match
+ |  |  | Display Style of View "Section View A-A" was found to match
+ |  |  | Tangent Edges on View "Section View A-A" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Section View A-A" was properly projected
+ |  |  | Type of View Material "Pure Gold" was found to match
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "RD1" of type Dimension
+ |  |  |  | Dimension RD1 was properly attached!
+ |  |  |  | Dimension "RD1" was on the correct view
+ |  |  |  | Dimension "RD1" was in a suitable location
+ |  |  |  | Dimension "RD1" had appropriate arrows
+ |  |  |  | Dimension "RD1" had the correct value!
+ |  |  |  | Dimension "RD1" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD1" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD2" of type Dimension
+ |  |  |  | Dimension RD2 was properly attached!
+ |  |  |  | Dimension "RD2" was on the correct view
+ |  |  |  | Dimension "RD2" was in a suitable location
+ |  |  |  | Dimension "RD2" had appropriate arrows
+ |  |  |  | Dimension "RD2" had the correct value!
+ |  |  |  | Dimension "RD2" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD2" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD3" of type Dimension
+ |  |  |  | Dimension RD3 was properly attached!
+ |  |  |  | Dimension "RD3" was on the correct view
+ |  |  |  | Dimension "RD3" was in a suitable location
+ |  |  |  | Dimension "RD3" had appropriate arrows
+ |  |  |  | Dimension "RD3" had the correct value!
+ |  |  |  | Dimension "RD3" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD3" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD4" of type Dimension
+ |  |  |  | Dimension RD4 was properly attached!
+ |  |  |  | Dimension "RD4" was on the correct view
+ |  |  |  | Dimension "RD4" was in a suitable location
+ |  |  |  | Dimension "RD4" had appropriate arrows
+ |  |  |  | Dimension "RD4" had the correct value!
+ |  |  |  | Dimension "RD4" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD4" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD5" of type Dimension
+ |  |  |  | Dimension RD5 was properly attached!
+ |  |  |  | Dimension "RD5" was on the correct view
+ |  |  |  | Dimension "RD5" was in a suitable location
+ |  |  |  | Dimension "RD5" had appropriate arrows
+ |  |  |  | Dimension "RD5" had the correct value!
+ |  |  |  | Dimension "RD5" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD5" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem527" of type Centerline
+ |  |  |  | Centerline DetailItem527 was properly attached!
+ |  |  |  | Centerline "DetailItem527" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem527" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem536" of type Centerline
+ |  |  |  | Centerline DetailItem536 was properly attached!
+ |  |  |  | Centerline "DetailItem536" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem536" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem539" of type Centerline
+ |  |  |  | Centerline DetailItem539 was properly attached!
+ |  |  |  | Centerline "DetailItem539" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem539" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem540" of type Centerline
+ |  |  |  | Centerline DetailItem540 was properly attached!
+ |  |  |  | Centerline "DetailItem540" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem540" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem537" of type Centerline
+ |  |  |  | Centerline DetailItem537 was properly attached!
+ |  |  |  | Centerline "DetailItem537" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem537" of type Centerline
+ |  |  | Deduction 0/3
+ |  |  | 
+ |  |  | Marking "DetailItem934-0" of type Centermark
+ |  |  |  | Centermark DetailItem934-0 was properly attached!
+ |  |  |  | Centermark "DetailItem934-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem934-0" had the correct style
+ |  |  |  | Centermark "DetailItem934-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem934-0" had correct angle
+ |  |  |  | Centermark "DetailItem934-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem934-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem934-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem934-0" had appropriate size
+ |  |  |  | Centermark "DetailItem934-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem934-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem934-1" of type Centermark
+ |  |  |  | Centermark DetailItem934-1 was properly attached!
+ |  |  |  | Centermark "DetailItem934-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem934-1" had the correct style
+ |  |  |  | Centermark "DetailItem934-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem934-1" had correct angle
+ |  |  |  | Centermark "DetailItem934-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem934-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem934-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem934-1" had appropriate size
+ |  |  |  | Centermark "DetailItem934-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem934-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem935-0" of type Centermark
+ |  |  |  | Centermark DetailItem935-0 was properly attached!
+ |  |  |  | Centermark "DetailItem935-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem935-0" had the correct style
+ |  |  |  | Centermark "DetailItem935-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem935-0" had correct angle
+ |  |  |  | Centermark "DetailItem935-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem935-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem935-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem935-0" had appropriate size
+ |  |  |  | Centermark "DetailItem935-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem935-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem935-1" of type Centermark
+ |  |  |  | Centermark DetailItem935-1 was properly attached!
+ |  |  |  | Centermark "DetailItem935-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem935-1" had the correct style
+ |  |  |  | Centermark "DetailItem935-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem935-1" had correct angle
+ |  |  |  | Centermark "DetailItem935-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem935-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem935-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem935-1" had appropriate size
+ |  |  |  | Centermark "DetailItem935-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem935-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem936-0" of type Centermark
+ |  |  |  | Centermark DetailItem936-0 was properly attached!
+ |  |  |  | Centermark "DetailItem936-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem936-0" had the correct style
+ |  |  |  | Centermark "DetailItem936-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem936-0" had correct angle
+ |  |  |  | Centermark "DetailItem936-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem936-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem936-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem936-0" had appropriate size
+ |  |  |  | Centermark "DetailItem936-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem936-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem936-1" of type Centermark
+ |  |  |  | Centermark DetailItem936-1 was properly attached!
+ |  |  |  | Centermark "DetailItem936-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem936-1" had the correct style
+ |  |  |  | Centermark "DetailItem936-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem936-1" had correct angle
+ |  |  |  | Centermark "DetailItem936-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem936-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem936-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem936-1" had appropriate size
+ |  |  |  | Centermark "DetailItem936-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem936-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem937-0" of type Centermark
+ |  |  |  | Centermark DetailItem937-0 was properly attached!
+ |  |  |  | Centermark "DetailItem937-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem937-0" had the correct style
+ |  |  |  | Centermark "DetailItem937-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem937-0" had correct angle
+ |  |  |  | Centermark "DetailItem937-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem937-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem937-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem937-0" had appropriate size
+ |  |  |  | Centermark "DetailItem937-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem937-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem937-1" of type Centermark
+ |  |  |  | Centermark DetailItem937-1 was properly attached!
+ |  |  |  | Centermark "DetailItem937-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem937-1" had the correct style
+ |  |  |  | Centermark "DetailItem937-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem937-1" had correct angle
+ |  |  |  | Centermark "DetailItem937-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem937-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem937-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem937-1" had appropriate size
+ |  |  |  | Centermark "DetailItem937-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem937-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  | Done Marking "Section View A-A" of type View
+ |  | Deduction 0/102
+ |  | 
+ |  | Marking "Detail View C (4 : 5)" of type View
+ |  |  | View "Detail View C (4 : 5)" wasn't in a suitable location
+ |  |  | Scale of View "Detail View C (4 : 5)" was found to match
+ |  |  | Display Style of View "Detail View C (4 : 5)" was found to match
+ |  |  | Tangent Edges on View "Detail View C (4 : 5)" was found to match
+ |  |  | No extra dimensions were found!
+ |  |  | No extra Centermarks were found!
+ |  |  | No extra centerlines were found!
+ |  |  | No extra datums were found!
+ |  |  | View "Detail View C (4 : 5)" was properly projected
+ |  |  | Type of View Material "Pure Gold" was found to match
+ |  |  | Giving leway by reducing deductions
+ |  |  | 
+ |  |  | Marking "RD1" of type Dimension
+ |  |  |  | Dimension RD1 was properly attached!
+ |  |  |  | Dimension "RD1" was on the correct view
+ |  |  |  | Dimension "RD1" was in a suitable location
+ |  |  |  | Dimension "RD1" had appropriate arrows
+ |  |  |  | Dimension "RD1" had the correct value!
+ |  |  |  | Dimension "RD1" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD1" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD2" of type Dimension
+ |  |  |  | Dimension RD2 was properly attached!
+ |  |  |  | Dimension "RD2" was on the correct view
+ |  |  |  | Dimension "RD2" was in a suitable location
+ |  |  |  | Dimension "RD2" had appropriate arrows
+ |  |  |  | Dimension "RD2" had the correct value!
+ |  |  |  | Dimension "RD2" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD2" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD3" of type Dimension
+ |  |  |  | Dimension RD3 was properly attached!
+ |  |  |  | Dimension "RD3" was on the correct view
+ |  |  |  | Dimension "RD3" wasn't in a suitable location
+ |  |  |  | Dimension "RD3" had appropriate arrows
+ |  |  |  | Dimension "RD3" had the correct value!
+ |  |  |  | Dimension "RD3" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD3" of type Dimension
+ |  |  | Deduction 1/5
+ |  |  | 
+ |  |  | Marking "RD4" of type Dimension
+ |  |  |  | Dimension RD4 was properly attached!
+ |  |  |  | Dimension "RD4" was on the correct view
+ |  |  |  | Dimension "RD4" was in a suitable location
+ |  |  |  | Dimension "RD4" had appropriate arrows
+ |  |  |  | Dimension "RD4" had the correct value!
+ |  |  |  | Dimension "RD4" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD4" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD5" of type Dimension
+ |  |  |  | Dimension RD5 was properly attached!
+ |  |  |  | Dimension "RD5" was on the correct view
+ |  |  |  | Dimension "RD5" was in a suitable location
+ |  |  |  | Dimension "RD5" had appropriate arrows
+ |  |  |  | Dimension "RD5" had the correct value!
+ |  |  |  | Dimension "RD5" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD5" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD6" of type Dimension
+ |  |  |  | Dimension RD6 was properly attached!
+ |  |  |  | Dimension "RD6" was on the correct view
+ |  |  |  | Dimension "RD6" was in a suitable location
+ |  |  |  | Dimension "RD6" had appropriate arrows
+ |  |  |  | Dimension "RD6" had the correct value!
+ |  |  |  | Dimension "RD6" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD6" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "RD7" of type Dimension
+ |  |  |  | Dimension RD7 was properly attached!
+ |  |  |  | Dimension "RD7" was on the correct view
+ |  |  |  | Dimension "RD7" was in a suitable location
+ |  |  |  | Dimension "RD7" had appropriate arrows
+ |  |  |  | Dimension "RD7" had the correct value!
+ |  |  |  | Dimension "RD7" had acceptable text
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "RD7" of type Dimension
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem932-0" of type Centermark
+ |  |  |  | Centermark DetailItem932-0 was properly attached!
+ |  |  |  | Centermark "DetailItem932-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem932-0" had the correct style
+ |  |  |  | Centermark "DetailItem932-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem932-0" had correct angle
+ |  |  |  | Centermark "DetailItem932-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem932-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem932-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem932-0" had appropriate size
+ |  |  |  | Centermark "DetailItem932-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem932-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem932-1" of type Centermark
+ |  |  |  | Centermark DetailItem932-1 was properly attached!
+ |  |  |  | Centermark "DetailItem932-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem932-1" had the correct style
+ |  |  |  | Centermark "DetailItem932-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem932-1" had correct angle
+ |  |  |  | Centermark "DetailItem932-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem932-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem932-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem932-1" had appropriate size
+ |  |  |  | Centermark "DetailItem932-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem932-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem933-0" of type Centermark
+ |  |  |  | Centermark DetailItem933-0 was properly attached!
+ |  |  |  | Centermark "DetailItem933-0" was in a suitable location
+ |  |  |  | Centermark "DetailItem933-0" had the correct style
+ |  |  |  | Centermark "DetailItem933-0" had correct extended lines
+ |  |  |  | Centermark "DetailItem933-0" had correct angle
+ |  |  |  | Centermark "DetailItem933-0" had correct connection lines
+ |  |  |  | Centermark "DetailItem933-0" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem933-0" had appropriate gaps
+ |  |  |  | Centermark "DetailItem933-0" had appropriate size
+ |  |  |  | Centermark "DetailItem933-0" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem933-0" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem933-1" of type Centermark
+ |  |  |  | Centermark DetailItem933-1 was properly attached!
+ |  |  |  | Centermark "DetailItem933-1" was in a suitable location
+ |  |  |  | Centermark "DetailItem933-1" had the correct style
+ |  |  |  | Centermark "DetailItem933-1" had correct extended lines
+ |  |  |  | Centermark "DetailItem933-1" had correct angle
+ |  |  |  | Centermark "DetailItem933-1" had correct connection lines
+ |  |  |  | Centermark "DetailItem933-1" had appropriate length extension lines
+ |  |  |  | Centermark "DetailItem933-1" had appropriate gaps
+ |  |  |  | Centermark "DetailItem933-1" had appropriate size
+ |  |  |  | Centermark "DetailItem933-1" had correct grouping
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem933-1" of type Centermark
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | Marking "DetailItem542" of type Datum
+ |  |  |  | Datum DetailItem542 was properly attached!
+ |  |  |  | Datum "DetailItem542" was on the correct view
+ |  |  |  | Datum "DetailItem542" was in a suitable location
+ |  |  |  | Datum "DetailItem542" had a base in a suitable location
+ |  |  |  | Datum "DetailItem542" was labeled correctly
+ |  |  |  | Datum "DetailItem542" had an appropriate display style
+ |  |  |  | Datum "DetailItem542" had a properly filled in triangle
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem542" of type Datum
+ |  |  | Deduction 0/5
+ |  |  | 
+ |  |  | A feature DetailItem541 of type Balloon/Note was expected, but was missing on the student drawing!
+ |  | Done Marking "Detail View C (4 : 5)" of type View
+ |  | Deduction 9/84
+ | Done Marking "Rim" of type Sheet
+ | Deduction 11/388
+Done Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
+Deduction 34/727
+
+Overall Mark 693 / 727
+
+End of Report
