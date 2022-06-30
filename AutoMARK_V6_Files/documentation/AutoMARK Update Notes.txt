@@ -1,3 +1,10 @@
+Automark 6.0
+	Bug Fixes
+		Frequent issue in Marking Criterion with usage of strcmp when data is bool
+	Report
+		Turning off all criteria for a template feature (dimension, datum, etc.) results in no mark-up (checkmark) on report
+
+
 Automark 5.0
 	Score Table
 		The generated reports now organize the scores for the different views into a single table.
