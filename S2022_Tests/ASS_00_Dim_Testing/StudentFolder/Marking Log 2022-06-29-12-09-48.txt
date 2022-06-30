@@ -1,4 +1,0 @@
-Log Start
-
-
-Log End

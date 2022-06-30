@@ -1,0 +1,506 @@
+Evaluation of results
+A very verbose log of the student's score
+
+Cell
+ | Weight: 290
+ | Deductions: 0
+ | Score: 290
+ | 
+ | Deductions:
+ | criterionDrawingSheetOrder : 0
+ | criterionDrawingExtraSheets : 0
+ | criterionAlwaysWrong : -0
+ | 
+ | Children:
+ | 
+ | Cell
+ |  | Weight: 273
+ |  | Deductions: 0
+ |  | Score: 273
+ |  | 
+ |  | Deductions:
+ |  | criterionSheetName : 0
+ |  | criterionSheetPaperSize : 0
+ |  | criterionSheetScale : 0
+ |  | criterionSheetTemplateIN : 0
+ |  | criterionSheetExtraBOMs : 0
+ |  | criterionSheetExtraViews : 0
+ |  | criterionSheetViewTypes : 0
+ |  | criterionSheetIntersectingBalloons : 0
+ |  | criterionSheetMass : 0
+ |  | criterionAlwaysWrong : -0
+ |  | 
+ |  | Children:
+ |  | 
+ |  | Cell
+ |  |  | Weight: 53
+ |  |  | Deductions: 0
+ |  |  | Score: 53
+ |  |  | 
+ |  |  | Deductions:
+ |  |  | criterionViewPosition : 0
+ |  |  | criterionViewScale : 0
+ |  |  | criterionViewDisplayStyle : 0
+ |  |  | criterionViewTangentLines : 0
+ |  |  | criterionViewExtraDimensions : 0
+ |  |  | criterionViewExtraCentermarks : 0
+ |  |  | criterionViewExtraCenterlines : 0
+ |  |  | criterionViewExtraDatums : 0
+ |  |  | criterionViewWrongProjection : 0
+ |  |  | criterionViewMaterial : 0
+ |  |  | criterionAlwaysWrong : -0
+ |  |  | 
+ |  |  | Children:
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 3
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionCenterlinePostion : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 3
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionCenterlinePostion : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDatumWrongView : 0
+ |  |  |  | criterionDatumPostion : 0
+ |  |  |  | criterionDatumBasePosition : 0
+ |  |  |  | criterionDatumLabel : 0
+ |  |  |  | criterionDatumDisplayStyle : 0
+ |  |  |  | criterionDatumFilledTriangle : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  | End Cell
+ |  | 
+ |  | Cell
+ |  |  | Weight: 82
+ |  |  | Deductions: 0
+ |  |  | Score: 82
+ |  |  | 
+ |  |  | Deductions:
+ |  |  | criterionViewPosition : 0
+ |  |  | criterionViewScale : 0
+ |  |  | criterionViewDisplayStyle : 0
+ |  |  | criterionViewTangentLines : 0
+ |  |  | criterionViewExtraDimensions : 0
+ |  |  | criterionViewExtraCentermarks : 0
+ |  |  | criterionViewExtraCenterlines : 0
+ |  |  | criterionViewExtraDatums : 0
+ |  |  | criterionViewWrongProjection : 0
+ |  |  | criterionViewMaterial : 0
+ |  |  | criterionAlwaysWrong : -0
+ |  |  | 
+ |  |  | Children:
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionCentermarkPosition : 0
+ |  |  |  | criterionCentermarkStyle : 0
+ |  |  |  | criterionCentermarkShowlines : 0
+ |  |  |  | criterionCentermarkAngle : 0
+ |  |  |  | criterionCentermarkConnectionLines : 0
+ |  |  |  | criterionCentermarkExtensions : 0
+ |  |  |  | criterionCentermarkGap : 0
+ |  |  |  | criterionCentermarkMarkSize : 0
+ |  |  |  | criterionCentermarkGroupedCorrectly : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionCentermarkPosition : 0
+ |  |  |  | criterionCentermarkStyle : 0
+ |  |  |  | criterionCentermarkShowlines : 0
+ |  |  |  | criterionCentermarkAngle : 0
+ |  |  |  | criterionCentermarkConnectionLines : 0
+ |  |  |  | criterionCentermarkExtensions : 0
+ |  |  |  | criterionCentermarkGap : 0
+ |  |  |  | criterionCentermarkMarkSize : 0
+ |  |  |  | criterionCentermarkGroupedCorrectly : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDatumWrongView : 0
+ |  |  |  | criterionDatumPostion : 0
+ |  |  |  | criterionDatumBasePosition : 0
+ |  |  |  | criterionDatumLabel : 0
+ |  |  |  | criterionDatumDisplayStyle : 0
+ |  |  |  | criterionDatumFilledTriangle : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  | End Cell
+ |  | 
+ |  | Cell
+ |  |  | Weight: 32
+ |  |  | Deductions: 0
+ |  |  | Score: 32
+ |  |  | 
+ |  |  | Deductions:
+ |  |  | criterionViewPosition : 0
+ |  |  | criterionViewScale : 0
+ |  |  | criterionViewDisplayStyle : 0
+ |  |  | criterionViewTangentLines : 0
+ |  |  | criterionViewExtraDimensions : 0
+ |  |  | criterionViewExtraCentermarks : 0
+ |  |  | criterionViewExtraCenterlines : 0
+ |  |  | criterionViewExtraDatums : 0
+ |  |  | criterionViewWrongProjection : 0
+ |  |  | criterionViewMaterial : 0
+ |  |  | criterionAlwaysWrong : -0
+ |  |  | 
+ |  |  | Children:
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDatumWrongView : 0
+ |  |  |  | criterionDatumPostion : 0
+ |  |  |  | criterionDatumBasePosition : 0
+ |  |  |  | criterionDatumLabel : 0
+ |  |  |  | criterionDatumDisplayStyle : 0
+ |  |  |  | criterionDatumFilledTriangle : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  | End Cell
+ |  | 
+ |  | Cell
+ |  |  | Weight: 22
+ |  |  | Deductions: 0
+ |  |  | Score: 22
+ |  |  | 
+ |  |  | Deductions:
+ |  |  | criterionViewPosition : 0
+ |  |  | criterionViewScale : 0
+ |  |  | criterionViewDisplayStyle : 0
+ |  |  | criterionViewTangentLines : 0
+ |  |  | criterionViewExtraDimensions : 0
+ |  |  | criterionViewExtraCentermarks : 0
+ |  |  | criterionViewExtraCenterlines : 0
+ |  |  | criterionViewExtraDatums : 0
+ |  |  | criterionViewWrongProjection : 0
+ |  |  | criterionViewMaterial : 0
+ |  |  | criterionAlwaysWrong : -0
+ |  | End Cell
+ |  | 
+ |  | Cell
+ |  |  | Weight: 35
+ |  |  | Deductions: 0
+ |  |  | Score: 35
+ |  |  | 
+ |  |  | Deductions:
+ |  |  | criterionViewPosition : 0
+ |  |  | criterionViewScale : 0
+ |  |  | criterionViewDisplayStyle : 0
+ |  |  | criterionViewTangentLines : 0
+ |  |  | criterionViewExtraDimensions : 0
+ |  |  | criterionViewExtraCentermarks : 0
+ |  |  | criterionViewExtraCenterlines : 0
+ |  |  | criterionViewExtraDatums : 0
+ |  |  | criterionViewWrongProjection : 0
+ |  |  | criterionViewMaterial : 0
+ |  |  | criterionAlwaysWrong : -0
+ |  |  | 
+ |  |  | Children:
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 5
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 3
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionCenterlinePostion : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 3
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionCenterlinePostion : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  |  | 
+ |  |  | Cell
+ |  |  |  | Weight: 2
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 2
+ |  |  |  | 
+ |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionBalloonPostion : 0
+ |  |  |  | criterionAlwaysWrong : -0
+ |  |  | End Cell
+ |  | End Cell
+ | End Cell
+End Cell
+
+End of Evaluation of result

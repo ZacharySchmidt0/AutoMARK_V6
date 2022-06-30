@@ -18,6 +18,22 @@ classdef criterionViewWrongProjection < baseCriterion
             % way marking works guarentees it!
             
             studentFeature = linker.returnPair(keyFeature);
+
+            if ischar(keyFeature.wasmirrored)
+                if strcmp(keyFeature.wasmirrored, 'false')
+                    keyFeature.wasmirrored = true;
+                else
+                    keyFeature.wasmirrored = false;
+                end
+            end
+
+            if ischar(studentFeature.wasmirrored)
+                if strcmp(studentFeature.wasmirrored, 'false')
+                    studentFeature.wasmirrored = true;
+                else
+                    studentFeature.wasmirrored = false;
+                end
+            end
             
             if xor(keyFeature.wasmirrored,studentFeature.wasmirrored) && keyFeature.viewtype == 2 % Section view
                 multiplier = 1;

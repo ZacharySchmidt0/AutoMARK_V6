@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.24)  30 JUN 2022 09:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.24)  30 JUN 2022 09:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"C:/Users/zacha/OneDrive/Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMA
-RK/AutoMARK_V6/S2022_Tests/ASS_00_Dim_Testing/StudentFolder/report.tex"
+RK/AutoMARK_V6/S2022_Tests/ASS_00_Dim_Testing/StudentFolder/Ex.4/report.tex"
 
 (C:/Users/zacha/OneDrive/Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK
-/AutoMARK_V6/S2022_Tests/ASS_00_Dim_Testing/StudentFolder/report.tex
+/AutoMARK_V6/S2022_Tests/ASS_00_Dim_Testing/StudentFolder/Ex.4/report.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-05-04>
 (C:\Users\zacha\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -524,47 +524,64 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 z/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
+(C:\Users\zacha\AppData\Local\Programs\MiKTeX\tex/latex/dblfloatfix\dblfloatfix
+.sty
+Package: dblfloatfix 2012/12/31 v1.0a (JAW)
+ (C:\Users\zacha\AppData\Local\Programs\MiKTeX\tex/latex/base\fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+)
+\@dblbotnum=\count292
+\c@dblbotnumber=\count293
+)
 (C:\Users\zacha\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count292
+\l__color_backend_stack_int=\count294
 \l__pdf_internal_box=\box62
 )
 No file report.aux.
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 (C:\Users\zacha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count293
+\scratchcounter=\count295
 \scratchdimen=\dimen196
 \scratchbox=\box63
-\nofMPsegments=\count294
-\nofMParguments=\count295
+\nofMPsegments=\count296
+\nofMParguments=\count297
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count296
+\MPscratchCnt=\count298
 \MPscratchDim=\dimen197
-\MPnumerator=\count297
-\makeMPintoPDFobject=\count298
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
 \everyMPtoPDFconversion=\toks30
 )
 (C:\Users\zacha\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -577,7 +594,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 52.
 
 (C:\Users\zacha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2022-05-13 v2.48 Cross-referencing by name of section
@@ -589,74 +606,226 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count299
+\c@section@level=\count301
 )
-<./LetterHead.jpg, id=6, 1059.20718pt x 153.57375pt>
-File: ./LetterHead.jpg Graphic file (type jpg)
-<use ./LetterHead.jpg>
-Package pdftex.def Info: ./LetterHead.jpg  used on input line 47.
+<./IncludeImages/LetterHead.jpg, id=6, 1059.20718pt x 153.57375pt>
+File: ./IncludeImages/LetterHead.jpg Graphic file (type jpg)
+<use ./IncludeImages/LetterHead.jpg>
+Package pdftex.def Info: ./IncludeImages/LetterHead.jpg  used on input line 57.
+
 (pdftex.def)             Requested size: 529.6023pt x 76.78668pt.
 
-Overfull \hbox (58.1298pt too wide) in paragraph at lines 47--48
+Overfull \hbox (58.1298pt too wide) in paragraph at lines 57--58
  [] 
  []
 
-<.//Sheet1histogram.png, id=7, 421.575pt x 316.0608pt>
-File: .//Sheet1histogram.png Graphic file (type png)
-<use .//Sheet1histogram.png>
-Package pdftex.def Info: .//Sheet1histogram.png  used on input line 97.
-(pdftex.def)             Requested size: 421.57396pt x 316.06003pt.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 \\
+        [0.5cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 [1
 
 {C:/Users/zacha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <C:/Users/zac
 ha/OneDrive/Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK_V6/
-S2022_Tests/ASS_00_Dim_Testing/StudentFolder/LetterHead.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.97 ...ntSheetOverlay}]{".//Sheet1histogram.png"}
-                                                   [2 <C:/Users/zacha/OneDrive/
-Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK_V6/S2022_Tests/
-ASS_00_Dim_Testing/StudentFolder/Sheet1histogram.png (PNG copy)>]
-<.//StudentFolderhistogram.png, id=26, 421.575pt x 316.0608pt>
-File: .//StudentFolderhistogram.png Graphic file (type png)
-<use .//StudentFolderhistogram.png>
-Package pdftex.def Info: .//StudentFolderhistogram.png  used on input line 98.
-(pdftex.def)             Requested size: 421.57396pt x 316.06003pt.
+S2022_Tests/ASS_00_Dim_Testing/StudentFolder/Ex.4/IncludeImages/LetterHead.jpg>
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 131.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 131.
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/212' and I am going to ig
+nore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 		{\greencheck
+                    } & No deductions on feature  \\
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+! Package pgfkeys Error: I do not know the key '/tikz/28' and I am going to ign
+ore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 		{\greencheck
+                    } & No deductions on feature  \\
+(That was another \errmessage.)
+
+
+! Package xcolor Error: Undefined color `0'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 		{\greencheck
+                    } & No deductions on feature  \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package xcolor Error: Undefined color `tikz@color'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 		{\greencheck
+                    } & No deductions on feature  \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package xcolor Error: Undefined color `yellow '.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 		\textcolor{yellow }{?}
+                              & Feature not found on key\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{table*} on input line 129 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (15.20752pt too wide) in paragraph at lines 154--155
+[]\OT1/cmr/m/n/12 SHEET: Sheet-Pa-per-Size, SheetScale, Sheet-Tem-plate, Shee-t
+Ex-tra-BOMS, Shee-tEx-traViews,
+ []
+
+
+Overfull \hbox (19.47003pt too wide) in paragraph at lines 155--156
+[]\OT1/cmr/m/n/12 BILLOFMATERIALS: BOMTable-Type, BOM-Num-ber-Columns, BOM-Num-
+ber-Rows, BOM-
+ []
+
+
+Overfull \hbox (23.73798pt too wide) in paragraph at lines 156--157
+\OT1/cmr/m/n/12 Cen-ter-Marks, View-Mass, View-Ma-te-rial, ViewEx-tra-Da-tums, 
+ViewWrong-Pro-jec-tion, ViewEx-
+ []
+
+
+Overfull \hbox (9.72008pt too wide) in paragraph at lines 159--160
+[]\OT1/cmr/m/n/12 CENTERMARK: Cen-ter-mark-Dan-gling, Cen-ter-mark-Po-si-tion, 
+Cen-ter-mark-Show-lines, Cen-
+ []
+
+
+Overfull \hbox (4.09378pt too wide) in paragraph at lines 160--161
+[]\OT1/cmr/m/n/12 DATUM: Da-tum-Dan-gling, Da-tumWrongView, Da-tumPo-si-tion, D
+a-tum-La-bel, Da-tumDis-
+ []
+
+<./Sheets/LEGO PART.png, id=19, 1228.59pt x 794.97pt>
+File: ./Sheets/LEGO PART.png Graphic file (type png)
+<use ./Sheets/LEGO PART.png>
+Package pdftex.def Info: ./Sheets/LEGO PART.png  used on input line 164.
+(pdftex.def)             Requested size: 1228.587pt x 794.96806pt.
+
+Overfull \vbox (8.86082pt too high) has occurred while \output is active []
+
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.98 ...Overlay}]{".//StudentFolderhistogram.png"}
+l.164 ...tSheetOverlay}]{"./Sheets/LEGO PART".png}
+                                                   [2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.164 ...tSheetOverlay}]{"./Sheets/LEGO PART".png}
                                                    [3 <C:/Users/zacha/OneDrive/
 Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK_V6/S2022_Tests/
-ASS_00_Dim_Testing/StudentFolder/StudentFolderhistogram.png (PNG copy)>]
+ASS_00_Dim_Testing/StudentFolder/Ex.4/Sheets/LEGO PART.png (PNG copy)>]
+<./ReportImages/LEGO PART.png, id=31, 1228.59pt x 794.97pt>
+File: ./ReportImages/LEGO PART.png Graphic file (type png)
+<use ./ReportImages/LEGO PART.png>
+Package pdftex.def Info: ./ReportImages/LEGO PART.png  used on input line 165.
+(pdftex.def)             Requested size: 1228.587pt x 794.96806pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.165 ...Overlay}]{"./ReportImages/LEGO PART".png}
+                                                   [4 <C:/Users/zacha/OneDrive/
+Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK_V6/S2022_Tests/
+ASS_00_Dim_Testing/StudentFolder/Ex.4/ReportImages/LEGO PART.png (PNG copy)>]
+<./KeySheets/LEGO PART.png, id=38, 1228.59pt x 794.97pt>
+File: ./KeySheets/LEGO PART.png Graphic file (type png)
+<use ./KeySheets/LEGO PART.png>
+Package pdftex.def Info: ./KeySheets/LEGO PART.png  used on input line 166.
+(pdftex.def)             Requested size: 1228.587pt x 794.96806pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.166 ...eetOverlay}]{"./KeySheets/LEGO PART".png}
+                                                   [5 <C:/Users/zacha/OneDrive/
+Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK_V6/S2022_Tests/
+ASS_00_Dim_Testing/StudentFolder/Ex.4/KeySheets/LEGO PART.png (PNG copy)>]
 (C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\SolidWorks\AutoMARK
-\AutoMARK_V6\S2022_Tests\ASS_00_Dim_Testing\StudentFolder\report.aux) ) 
+\AutoMARK_V6\S2022_Tests\ASS_00_Dim_Testing\StudentFolder\Ex.4\report.aux) ) 
 Here is how much of TeX's memory you used:
- 19270 strings out of 478614
- 373776 string characters out of 2843122
- 626964 words of memory out of 3000000
- 37125 multiletter control sequences out of 15000+600000
- 471715 words of font info for 36 fonts, out of 8000000 for 9000
+ 19361 strings out of 478614
+ 376150 string characters out of 2843122
+ 632016 words of memory out of 3000000
+ 37202 multiletter control sequences out of 15000+600000
+ 472399 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,7n,104p,553b,628s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Use
-rs\zacha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C
-:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx
-10.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmcsc10.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/zacha/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+ 100i,10n,104p,558b,718s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C
+:\Users\zacha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.
+pk> <C:\Users\zacha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
+m1000.pk><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/zacha/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/zacha/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/zacha/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/zacha/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
 Output written on "C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\S
-olidWorks\AutoMARK\AutoMARK_V6\S2022_Tests\ASS_00_Dim_Testing\StudentFolder\rep
-ort.pdf" (3 pages, 171529 bytes).
+olidWorks\AutoMARK\AutoMARK_V6\S2022_Tests\ASS_00_Dim_Testing\StudentFolder\Ex.
+4\report.pdf" (5 pages, 668478 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
