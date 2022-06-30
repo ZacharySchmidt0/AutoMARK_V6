@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.24)  29 JUN 2022 15:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.24)  30 JUN 2022 09:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"C:/Users/zacha/OneDrive/Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMA
-RK/AutoMARK/S2022_Tests/ASS_01_Dim_Testing/StudentFolder/Ex.4/report.tex"
+RK/AutoMARK_V6/S2022_Tests/ASS_01_Dim_Testing/StudentFolder/Ex.4/report.tex"
 
 (C:/Users/zacha/OneDrive/Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK
-/AutoMARK/S2022_Tests/ASS_01_Dim_Testing/StudentFolder/Ex.4/report.tex
+/AutoMARK_V6/S2022_Tests/ASS_01_Dim_Testing/StudentFolder/Ex.4/report.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-05-04>
 (C:\Users\zacha\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -547,8 +547,7 @@ File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count294
 \l__pdf_internal_box=\box62
 )
-(C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\SolidWorks\AutoMARK
-\AutoMARK\S2022_Tests\ASS_01_Dim_Testing\StudentFolder\Ex.4\report.aux)
+No file report.aux.
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
@@ -636,12 +635,14 @@ or  <return>  to continue without it.
 [1
 
 {C:/Users/zacha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <C:/Users/zac
-ha/OneDrive/Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK/S20
-22_Tests/ASS_01_Dim_Testing/StudentFolder/Ex.4/IncludeImages/LetterHead.jpg>]
+ha/OneDrive/Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK_V6/
+S2022_Tests/ASS_01_Dim_Testing/StudentFolder/Ex.4/IncludeImages/LetterHead.jpg>
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 131.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 131.
+
 
 ! Package pgfkeys Error: I do not know the key '/tikz/212' and I am going to ig
 nore it. Perhaps you misspelled it.
@@ -769,8 +770,8 @@ een already used, duplicate ignored
                    \relax 
 l.164 ...tudentSheetOverlay}]{"./Sheets/OTHO".png}
                                                    [3 <C:/Users/zacha/OneDrive/
-Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK/S2022_Tests/ASS
-_01_Dim_Testing/StudentFolder/Ex.4/Sheets/OTHO.png (PNG copy)>]
+Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK_V6/S2022_Tests/
+ASS_01_Dim_Testing/StudentFolder/Ex.4/Sheets/OTHO.png (PNG copy)>]
 <./ReportImages/OTHO.png, id=31, 1228.59pt x 794.97pt>
 File: ./ReportImages/OTHO.png Graphic file (type png)
 <use ./ReportImages/OTHO.png>
@@ -783,8 +784,8 @@ een already used, duplicate ignored
                    \relax 
 l.165 ...SheetOverlay}]{"./ReportImages/OTHO".png}
                                                    [4 <C:/Users/zacha/OneDrive/
-Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK/S2022_Tests/ASS
-_01_Dim_Testing/StudentFolder/Ex.4/ReportImages/OTHO.png (PNG copy)>]
+Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK_V6/S2022_Tests/
+ASS_01_Dim_Testing/StudentFolder/Ex.4/ReportImages/OTHO.png (PNG copy)>]
 <./KeySheets/OTHO.png, id=38, 1228.59pt x 794.97pt>
 File: ./KeySheets/OTHO.png Graphic file (type png)
 <use ./KeySheets/OTHO.png>
@@ -797,32 +798,32 @@ een already used, duplicate ignored
                    \relax 
 l.166 ...keySheetOverlay}]{"./KeySheets/OTHO".png}
                                                    [5 <C:/Users/zacha/OneDrive/
-Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK/S2022_Tests/ASS
-_01_Dim_Testing/StudentFolder/Ex.4/KeySheets/OTHO.png (PNG copy)>]
+Desktop/Ualberta Summer 2022 Co-op/SolidWorks/AutoMARK/AutoMARK_V6/S2022_Tests/
+ASS_01_Dim_Testing/StudentFolder/Ex.4/KeySheets/OTHO.png (PNG copy)>]
 (C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\SolidWorks\AutoMARK
-\AutoMARK\S2022_Tests\ASS_01_Dim_Testing\StudentFolder\Ex.4\report.aux) ) 
+\AutoMARK_V6\S2022_Tests\ASS_01_Dim_Testing\StudentFolder\Ex.4\report.aux) ) 
 Here is how much of TeX's memory you used:
- 19363 strings out of 478614
- 376307 string characters out of 2843122
- 632080 words of memory out of 3000000
+ 19361 strings out of 478614
+ 376038 string characters out of 2843122
+ 632016 words of memory out of 3000000
  37202 multiletter control sequences out of 15000+600000
  472399 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,10n,104p,555b,718s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\U
-sers\zacha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk>
- <C:\Users\zacha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm10
-00.pk><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/zacha/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/zacha/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/zacha/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+ 100i,10n,104p,558b,718s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C
+:\Users\zacha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.
+pk> <C:\Users\zacha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
+m1000.pk><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/zacha/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/zacha/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/zacha/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/zacha/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/zacha/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
 Output written on "C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\S
-olidWorks\AutoMARK\AutoMARK\S2022_Tests\ASS_01_Dim_Testing\StudentFolder\Ex.4\r
-eport.pdf" (5 pages, 778408 bytes).
+olidWorks\AutoMARK\AutoMARK_V6\S2022_Tests\ASS_01_Dim_Testing\StudentFolder\Ex.
+4\report.pdf" (5 pages, 778408 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
