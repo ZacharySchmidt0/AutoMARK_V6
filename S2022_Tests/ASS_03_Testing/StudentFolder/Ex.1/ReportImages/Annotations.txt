@@ -111,13 +111,13 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  |  | Table "DetailItem439" was in a suitable location
  |  |  | Height of Table "DetailItem439" was acceptable
  |  |  | Width of Table "DetailItem439" was acceptable
- |  |  | Font type of Table "DetailItem439" did not match key
- |  |  | Font size of Table "DetailItem439" did not match key
+ |  |  | Font type of Table "DetailItem439" was found to match
+ |  |  | Font size of Table "DetailItem439" was found to match
  |  |  | Giving leway by reducing deductions
  |  | Done Marking "DetailItem439" of type Bill of Materials Table
- |  | Deduction 2/40
+ |  | Deduction 0/40
  | Done Marking "Exploded" of type Sheet
- | Deduction 2/137
+ | Deduction 0/137
  | 
  | Marking "AssemblySection" of type Sheet
  |  | Name of Sheet "AssemblySection" was found to match
@@ -324,13 +324,13 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  |  | Table "DetailItem493" was in a suitable location
  |  |  | Height of Table "DetailItem493" was acceptable
  |  |  | Width of Table "DetailItem493" was acceptable
- |  |  | Font type of Table "DetailItem493" did not match key
- |  |  | Font size of Table "DetailItem493" did not match key
+ |  |  | Font type of Table "DetailItem493" was found to match
+ |  |  | Font size of Table "DetailItem493" was found to match
  |  |  | Giving leway by reducing deductions
  |  | Done Marking "DetailItem493" of type Bill of Materials Table
- |  | Deduction 2/40
+ |  | Deduction 0/40
  | Done Marking "AssemblySection" of type Sheet
- | Deduction 2/185
+ | Deduction 0/185
  | 
  | Marking "Rim" of type Sheet
  |  | Name of Sheet "Rim" was found to match
@@ -1020,8 +1020,8 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  | Done Marking "Rim" of type Sheet
  | Deduction 4/388
 Done Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
-Deduction 8/727
+Deduction 4/727
 
-Overall Mark 719 / 727
+Overall Mark 723 / 727
 
 End of Report

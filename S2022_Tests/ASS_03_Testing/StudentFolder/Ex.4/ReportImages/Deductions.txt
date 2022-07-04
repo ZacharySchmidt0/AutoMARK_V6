@@ -3,8 +3,8 @@ A very verbose log of the student's score
 
 Cell
  | Weight: 727
- | Deductions: 44
- | Score: 683
+ | Deductions: 45
+ | Score: 682
  | 
  | Deductions:
  | criterionDrawingSheetOrder : 0
@@ -15,8 +15,8 @@ Cell
  | 
  | Cell
  |  | Weight: 137
- |  | Deductions: 2
- |  | Score: 135
+ |  | Deductions: 0
+ |  | Score: 137
  |  | 
  |  | Deductions:
  |  | criterionSheetName : 0
@@ -165,8 +165,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 40
- |  |  | Deductions: 2
- |  |  | Score: 38
+ |  |  | Deductions: 0
+ |  |  | Score: 40
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionBOMTableType : 0
@@ -177,16 +177,16 @@ Cell
  |  |  | criterionBOMPosition : 0
  |  |  | criterionBOMTableHeight : 0
  |  |  | criterionBOMTableWidth : 0
- |  |  | criterionBOMFontType : 1
- |  |  | criterionBOMFontSize : 1
+ |  |  | criterionBOMFontType : 0
+ |  |  | criterionBOMFontSize : 0
  |  |  | criterionAlwaysWrong : -0
  |  | End Cell
  | End Cell
  | 
  | Cell
  |  | Weight: 185
- |  | Deductions: 19
- |  | Score: 166
+ |  | Deductions: 22
+ |  | Score: 163
  |  | 
  |  | Deductions:
  |  | criterionSheetName : 0
@@ -196,7 +196,7 @@ Cell
  |  | criterionSheetExtraBOMs : 0
  |  | criterionSheetExtraViews : 0
  |  | criterionSheetViewTypes : 0
- |  | criterionSheetIntersectingBalloons : 0
+ |  | criterionSheetIntersectingBalloons : 5
  |  | criterionSheetMass : 0
  |  | criterionAlwaysWrong : -0
  |  | 
@@ -456,8 +456,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 40
- |  |  | Deductions: 12
- |  |  | Score: 28
+ |  |  | Deductions: 10
+ |  |  | Score: 30
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionBOMTableType : 0
@@ -468,8 +468,8 @@ Cell
  |  |  | criterionBOMPosition : 10
  |  |  | criterionBOMTableHeight : 0
  |  |  | criterionBOMTableWidth : 0
- |  |  | criterionBOMFontType : 1
- |  |  | criterionBOMFontSize : 1
+ |  |  | criterionBOMFontType : 0
+ |  |  | criterionBOMFontSize : 0
  |  |  | criterionAlwaysWrong : -0
  |  | End Cell
  | End Cell

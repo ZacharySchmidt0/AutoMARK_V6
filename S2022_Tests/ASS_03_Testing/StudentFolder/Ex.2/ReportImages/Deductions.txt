@@ -3,8 +3,8 @@ A very verbose log of the student's score
 
 Cell
  | Weight: 727
- | Deductions: 26
- | Score: 701
+ | Deductions: 22
+ | Score: 705
  | 
  | Deductions:
  | criterionDrawingSheetOrder : 0
@@ -15,8 +15,8 @@ Cell
  | 
  | Cell
  |  | Weight: 137
- |  | Deductions: 8
- |  | Score: 129
+ |  | Deductions: 6
+ |  | Score: 131
  |  | 
  |  | Deductions:
  |  | criterionSheetName : 0
@@ -165,8 +165,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 40
- |  |  | Deductions: 2
- |  |  | Score: 38
+ |  |  | Deductions: 0
+ |  |  | Score: 40
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionBOMTableType : 0
@@ -177,16 +177,16 @@ Cell
  |  |  | criterionBOMPosition : 0
  |  |  | criterionBOMTableHeight : 0
  |  |  | criterionBOMTableWidth : 0
- |  |  | criterionBOMFontType : 1
- |  |  | criterionBOMFontSize : 1
+ |  |  | criterionBOMFontType : 0
+ |  |  | criterionBOMFontSize : 0
  |  |  | criterionAlwaysWrong : -0
  |  | End Cell
  | End Cell
  | 
  | Cell
  |  | Weight: 185
- |  | Deductions: 8
- |  | Score: 177
+ |  | Deductions: 6
+ |  | Score: 179
  |  | 
  |  | Deductions:
  |  | criterionSheetName : 0
@@ -456,8 +456,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 40
- |  |  | Deductions: 2
- |  |  | Score: 38
+ |  |  | Deductions: 0
+ |  |  | Score: 40
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionBOMTableType : 0
@@ -468,8 +468,8 @@ Cell
  |  |  | criterionBOMPosition : 0
  |  |  | criterionBOMTableHeight : 0
  |  |  | criterionBOMTableWidth : 0
- |  |  | criterionBOMFontType : 1
- |  |  | criterionBOMFontSize : 1
+ |  |  | criterionBOMFontType : 0
+ |  |  | criterionBOMFontSize : 0
  |  |  | criterionAlwaysWrong : -0
  |  | End Cell
  | End Cell

@@ -111,13 +111,13 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  |  | Table "DetailItem439" was in a suitable location
  |  |  | Height of Table "DetailItem439" was acceptable
  |  |  | Width of Table "DetailItem439" was acceptable
- |  |  | Font type of Table "DetailItem439" did not match key
- |  |  | Font size of Table "DetailItem439" did not match key
+ |  |  | Font type of Table "DetailItem439" was found to match
+ |  |  | Font size of Table "DetailItem439" was found to match
  |  |  | Giving leway by reducing deductions
  |  | Done Marking "DetailItem439" of type Bill of Materials Table
- |  | Deduction 2/40
+ |  | Deduction 0/40
  | Done Marking "Exploded" of type Sheet
- | Deduction 2/137
+ | Deduction 0/137
  | 
  | Marking "AssemblySection" of type Sheet
  |  | Name of Sheet "AssemblySection" was found to match
@@ -127,7 +127,7 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  | No extra BOMs were found!
  |  | No extra views were found!
  |  | View types of Sheet "AssemblySection" was found to match
- |  | Balloon lines did not intersect!
+ |  | 1 intersecting balloon lines were found!
  |  | Type of View Mass was found to match
  |  | Giving leway by reducing deductions
  |  | 
@@ -324,13 +324,13 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  |  | Table "DetailItem493" wasn't in a suitable location
  |  |  | Height of Table "DetailItem493" was acceptable
  |  |  | Width of Table "DetailItem493" was acceptable
- |  |  | Font type of Table "DetailItem493" did not match key
- |  |  | Font size of Table "DetailItem493" did not match key
+ |  |  | Font type of Table "DetailItem493" was found to match
+ |  |  | Font size of Table "DetailItem493" was found to match
  |  |  | Giving leway by reducing deductions
  |  | Done Marking "DetailItem493" of type Bill of Materials Table
- |  | Deduction 12/40
+ |  | Deduction 10/40
  | Done Marking "AssemblySection" of type Sheet
- | Deduction 19/185
+ | Deduction 22/185
  | 
  | Marking "Rim" of type Sheet
  |  | Name of Sheet "Rim" was found to match
@@ -1011,8 +1011,8 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  | Done Marking "Rim" of type Sheet
  | Deduction 23/388
 Done Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
-Deduction 44/727
+Deduction 45/727
 
-Overall Mark 683 / 727
+Overall Mark 682 / 727
 
 End of Report
