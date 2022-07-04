@@ -40,7 +40,7 @@ classdef criterionSheetIntersectingBalloons < baseCriterion
             numballoons = 0;
             
             for i = 1:numel(studentFeature.childballoons)
-                if strcmp(studentFeature.childballoons(i).isbomballoon, 'true')
+                if studentFeature.childballoons(i).isbomballoon
                     numballoons = numballoons + 1;
                 end
             end
@@ -51,7 +51,7 @@ classdef criterionSheetIntersectingBalloons < baseCriterion
             j = 0;
             for i = 1:numel(studentFeature.childballoons)
                 b = studentFeature.childballoons(i);
-                if strcmp(b.isbomballoon, 'true')
+                if b.isbomballoon
                     
                     j = j + 1;
                     balloonLineData(j, 1) = b.leaderpoints;
