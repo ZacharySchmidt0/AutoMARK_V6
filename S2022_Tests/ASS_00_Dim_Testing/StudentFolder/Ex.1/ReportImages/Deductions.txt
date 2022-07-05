@@ -58,6 +58,7 @@ Cell
  |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
@@ -72,6 +73,13 @@ Cell
  |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
@@ -121,6 +129,9 @@ Cell
  |  |  |  | Score: 3
  |  |  |  | 
  |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionCenterlinePostion : 0
+ |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
@@ -376,6 +387,13 @@ Cell
  |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell

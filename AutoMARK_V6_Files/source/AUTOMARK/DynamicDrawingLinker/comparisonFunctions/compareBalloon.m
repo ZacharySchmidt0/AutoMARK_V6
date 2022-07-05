@@ -58,9 +58,9 @@ else
     textLoss = 100 * levenshtein(string(keyBalloon.text), string(studentBalloon.text)) / max([1, strlength(string(keyBalloon.text)), strlength(string(studentBalloon.text))]);
     
     % Short Notes are pointless to link
-    if min(strlength(string(keyBalloon.text)), strlength(string(studentBalloon.text))) <= 2
-        textLoss = 110;
-    end
+    %if min(strlength(string(keyBalloon.text)), strlength(string(studentBalloon.text))) <= 2
+    %    textLoss = 110;
+    %end
     
     comparescore = comparescore - textLoss;
 end

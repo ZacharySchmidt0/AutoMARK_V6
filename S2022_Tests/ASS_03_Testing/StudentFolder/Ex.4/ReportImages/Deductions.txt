@@ -3,8 +3,8 @@ A very verbose log of the student's score
 
 Cell
  | Weight: 727
- | Deductions: 45
- | Score: 682
+ | Deductions: 41
+ | Score: 686
  | 
  | Deductions:
  | criterionDrawingSheetOrder : 0
@@ -476,8 +476,8 @@ Cell
  | 
  | Cell
  |  | Weight: 388
- |  | Deductions: 23
- |  | Score: 365
+ |  | Deductions: 19
+ |  | Score: 369
  |  | 
  |  | Deductions:
  |  | criterionSheetName : 0
@@ -654,8 +654,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 69
- |  |  | Deductions: 2
- |  |  | Score: 67
+ |  |  | Deductions: 0
+ |  |  | Score: 69
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionViewPosition : 0
@@ -833,11 +833,13 @@ Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 2
- |  |  |  | Deductions: 2
- |  |  |  | Score: 0
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 2
  |  |  |  | 
  |  |  |  | Deductions:
- |  |  |  | criterionMissing : 2
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionBalloonPostion : 0
+ |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  | End Cell
  |  | 
@@ -1165,8 +1167,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 84
- |  |  | Deductions: 3
- |  |  | Score: 81
+ |  |  | Deductions: 1
+ |  |  | Score: 83
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionViewPosition : 0
@@ -1382,11 +1384,13 @@ Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 2
- |  |  |  | Deductions: 2
- |  |  |  | Score: 0
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 2
  |  |  |  | 
  |  |  |  | Deductions:
- |  |  |  | criterionMissing : 2
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionBalloonPostion : 0
+ |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  | End Cell
  | End Cell

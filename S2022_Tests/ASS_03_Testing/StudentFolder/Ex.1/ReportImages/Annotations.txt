@@ -608,9 +608,14 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  |  | Done Marking "DetailItem291-5" of type Centermark
  |  |  | Deduction 0/5
  |  |  | 
- |  |  | A feature DetailItem289 of type Balloon/Note was expected, but was missing on the student drawing!
+ |  |  | Marking "DetailItem289" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem289 was properly attached!
+ |  |  |  | Balloon "DetailItem289" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem289" of type Balloon/Note
+ |  |  | Deduction 0/2
  |  | Done Marking "Detail View B (1 : 2)" of type View
- |  | Deduction 2/69
+ |  | Deduction 0/69
  |  | 
  |  | Marking "Drawing View14" of type View
  |  |  | View "Drawing View14" was in a suitable location
@@ -1014,14 +1019,19 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  |  | Done Marking "DetailItem542" of type Datum
  |  |  | Deduction 0/5
  |  |  | 
- |  |  | A feature DetailItem541 of type Balloon/Note was expected, but was missing on the student drawing!
+ |  |  | Marking "DetailItem541" of type Balloon/Note
+ |  |  |  | Balloon/Note DetailItem541 was properly attached!
+ |  |  |  | Balloon "DetailItem541" was in a suitable location
+ |  |  |  | Giving leway by reducing deductions
+ |  |  | Done Marking "DetailItem541" of type Balloon/Note
+ |  |  | Deduction 0/2
  |  | Done Marking "Detail View C (4 : 5)" of type View
- |  | Deduction 2/84
+ |  | Deduction 0/84
  | Done Marking "Rim" of type Sheet
- | Deduction 4/388
+ | Deduction 0/388
 Done Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
-Deduction 4/727
+Deduction 0/727
 
-Overall Mark 723 / 727
+Overall Mark 727 / 727
 
 End of Report
