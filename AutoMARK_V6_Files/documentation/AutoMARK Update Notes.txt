@@ -1,8 +1,11 @@
-Automark 6.0
+Automark 6.0 (Jason Kim, Zachary Schmidt; Summer 2022)
 	Bug Fixes
 		Frequent issue in Marking Criterion with usage of strcmp when data is bool
+		Balloons/Notes with short (less than 2 chars) were not being added to linker. Changed so that all balloons/notes are now added.
 	Report
 		Turning off all criteria for a template feature (dimension, datum, etc.) results in no mark-up (checkmark) on report
+	SolidWorks Macros
+		Font info was being pulled from the student but not the key. Added this to key macro.
 
 
 Automark 5.0
