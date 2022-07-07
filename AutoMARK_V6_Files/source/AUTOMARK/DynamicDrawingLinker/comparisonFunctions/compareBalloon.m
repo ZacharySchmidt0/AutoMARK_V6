@@ -57,6 +57,8 @@ else
     
     textLoss = 100 * levenshtein(string(keyBalloon.text), string(studentBalloon.text)) / max([1, strlength(string(keyBalloon.text)), strlength(string(studentBalloon.text))]);
     
+    % This was causing issues in V6. Notes with no text were being labeled
+    % missing.
     % Short Notes are pointless to link
     %if min(strlength(string(keyBalloon.text)), strlength(string(studentBalloon.text))) <= 2
     %    textLoss = 110;
