@@ -40,4 +40,8 @@ File Locations
              we passed a value for default file location to uigetfile.
              AutoMacroGUI.mlapp SelectFolderButtonPushed. Passed a value to uigetdir.
 
+criterionDimensionValue.m: lines 25-35
+	In V5, chamfer dimensions that were (180-key_angle) were being marked as wrong.
+    Change was made to allow diff to be the lesser of student_angle or 180-student_angle.
+
 All Key Templates re-created in new version of SolidWorks (2022-2023)

@@ -10,6 +10,9 @@ Automark 6.0 (Jason Kim, Zachary Schmidt; Summer 2022)
 		The prompt for selecting files would previously default to the current working Matlab directory.
 		It was very annoying to keep navigating to the same place. We instead passed the directory one
 		level above the student folder to uigetfile & uigetdir.
+	Chamfer Dimensions
+		Change was made to accept angle or 180-angle. This is more fair since
+		chamfer angles of 45 and 135 mean the same thing.
 
 
 Automark 5.0
