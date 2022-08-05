@@ -21,8 +21,19 @@ classdef criterionDimensionValue < baseCriterion
             % way marking works guarentees it!
             
             studentFeature = linker.returnPair(keyFeature);
-            
-            diff = keyFeature.dimension1value - studentFeature.dimension1value;
+
+            if ~(keyFeature.chamfertextstyle == -1)
+                % dimension is a chamfer, diff = the smaller of angle or
+                % 180-angle
+                if abs(keyFeature.dimension1value - studentFeature.dimension1value) < abs(keyFeature.dimension1value - (180 - studentFeature.dimension1value))
+                    diff = keyFeature.dimension1value - studentFeature.dimension1value;
+                else
+                    diff = keyFeature.dimension1value - (180 - studentFeature.dimension1value);
+                end
+            else
+                % dimension is not a chamfer
+                diff = keyFeature.dimension1value - studentFeature.dimension1value;
+            end
             diff2 = keyFeature.dimension2value - studentFeature.dimension2value;
             toldif = keyFeature.dimension1tolerancemax - studentFeature.dimension1tolerancemax;
             tol2dif = keyFeature.dimension2tolerancemax - studentFeature.dimension2tolerancemax;

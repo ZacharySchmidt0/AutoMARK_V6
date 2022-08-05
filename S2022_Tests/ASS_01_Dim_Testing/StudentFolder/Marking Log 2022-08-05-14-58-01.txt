@@ -1,0 +1,12 @@
+Log Start
+
+Marking "C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\SolidWorks\AutoMARK\AutoMARK_V6\S2022_Tests\ASS_01_Dim_Testing\StudentFolder\Ex.1" --			-- FAILED! Reason: Executing Marking
+Crashed in file: imageHandler2.displayImage
+On line: 82
+Marking "C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\SolidWorks\AutoMARK\AutoMARK_V6\S2022_Tests\ASS_01_Dim_Testing\StudentFolder\Ex.2" --			-- FAILED! Reason: Executing Marking
+Crashed in file: imageHandler2.displayImage
+On line: 82
+Marking "C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\SolidWorks\AutoMARK\AutoMARK_V6\S2022_Tests\ASS_01_Dim_Testing\StudentFolder\Ex.3" --			-- FAILED! Reason: Executing Marking
+Crashed in file: imageHandler2.displayImage
+On line: 82
+Marking "C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\SolidWorks\AutoMARK\AutoMARK_V6\S2022_Tests\ASS_01_Dim_Testing\StudentFolder\Ex.4" --			-- 
