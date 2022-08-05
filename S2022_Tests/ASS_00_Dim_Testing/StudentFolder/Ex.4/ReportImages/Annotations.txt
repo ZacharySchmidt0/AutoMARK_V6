@@ -31,7 +31,6 @@ Marking "LEGO_BRICK_dnobes_F2021_SOLUTION" of type Drawing
  |  |  | Giving leway by reducing deductions
  |  |  | 
  |  |  | Marking "RD1" of type Dimension
- |  |  |  | Dimension RD1 was properly attached!
  |  |  |  | Dimension "RD1" was on the correct view
  |  |  |  | Dimension "RD1" was in a suitable location
  |  |  |  | Dimension "RD1" had appropriate arrows
@@ -42,13 +41,6 @@ Marking "LEGO_BRICK_dnobes_F2021_SOLUTION" of type Drawing
  |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "RD2" of type Dimension
- |  |  |  | Dimension RD2 was properly attached!
- |  |  |  | Dimension "RD2" was on the correct view
- |  |  |  | Dimension "RD2" was in a suitable location
- |  |  |  | Dimension "RD2" had appropriate arrows
- |  |  |  | Dimension "RD2" had the correct value!
- |  |  |  | Dimension "RD2" had acceptable text
- |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD2" of type Dimension
  |  |  | Deduction 0/5
  |  |  | 
@@ -82,9 +74,6 @@ Marking "LEGO_BRICK_dnobes_F2021_SOLUTION" of type Drawing
  |  |  | Deduction 0/3
  |  |  | 
  |  |  | Marking "DetailItem215" of type Centerline
- |  |  |  | Centerline DetailItem215 was properly attached!
- |  |  |  | Centerline "DetailItem215" was in a suitable location
- |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "DetailItem215" of type Centerline
  |  |  | Deduction 0/3
  |  |  | 
@@ -272,15 +261,8 @@ Marking "LEGO_BRICK_dnobes_F2021_SOLUTION" of type Drawing
  |  |  | Giving leway by reducing deductions
  |  |  | 
  |  |  | Marking "RD1" of type Dimension
- |  |  |  | Dimension RD1 was properly attached!
- |  |  |  | Dimension "RD1" was on the correct view
- |  |  |  | Dimension "RD1" wasn't in a suitable location
- |  |  |  | Dimension "RD1" had appropriate arrows
- |  |  |  | Dimension "RD1" had the correct value!
- |  |  |  | Dimension "RD1" had acceptable text
- |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD1" of type Dimension
- |  |  | Deduction 1/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "DetailItem227" of type Datum
  |  |  |  | Datum DetailItem227 was properly attached!
@@ -294,7 +276,7 @@ Marking "LEGO_BRICK_dnobes_F2021_SOLUTION" of type Drawing
  |  |  | Done Marking "DetailItem227" of type Datum
  |  |  | Deduction 0/5
  |  | Done Marking "Drawing View3" of type View
- |  | Deduction 7/32
+ |  | Deduction 6/32
  |  | 
  |  | Marking "Drawing View4" of type View
  |  |  | View "Drawing View4" was in a suitable location
@@ -358,10 +340,10 @@ Marking "LEGO_BRICK_dnobes_F2021_SOLUTION" of type Drawing
  |  | Done Marking "Section View A-A" of type View
  |  | Deduction 7/35
  | Done Marking "LEGO PART" of type Sheet
- | Deduction 21/273
+ | Deduction 20/273
 Done Marking "LEGO_BRICK_dnobes_F2021_SOLUTION" of type Drawing
-Deduction 21/290
+Deduction 20/290
 
-Overall Mark 269 / 290
+Overall Mark 270 / 290
 
 End of Report
