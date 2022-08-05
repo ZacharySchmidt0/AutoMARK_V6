@@ -6,6 +6,10 @@ Automark 6.0 (Jason Kim, Zachary Schmidt; Summer 2022)
 		Turning off all criteria for a template feature (dimension, datum, etc.) results in no mark-up (checkmark) on report
 	SolidWorks Macros
 		Font info was being pulled from the student but not the key. Added this to key macro.
+	File Locations
+		The prompt for selecting files would previously default to the current working Matlab directory.
+		It was very annoying to keep navigating to the same place. We instead passed the directory one
+		level above the student folder to uigetfile & uigetdir.
 
 
 Automark 5.0

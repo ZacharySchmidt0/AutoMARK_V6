@@ -1,0 +1,43 @@
+Bugs found in AutoMARK V5 (changes made in V6):
+
+createStudentPDF.m: lines 43-46
+    strrep can only replace a string with another string. 
+    The old item being replaced was of type datetime, not string.
+    Fix: Convert the old datetime using datestr() after checking
+    type
+
+compareBalloon.m: line 21
+    comparing bool and string using == led to typeError
+    Fix: no need for == 'true'
+
+key Macro: fillTableProperties subroutine
+    Font info was being pulled in student macro but not in key macro.
+    Copied into key macro and issue was fixed.
+
+criterionDatumFilledTriangle.m: line 22
+    Cannot use strcmp for data of type bool. Replace strcmp with xor.
+    There were many other strcmp's that were replaced with xor in the
+    MarkingCriterion folder.
+
+compareBaloon.m: lines 60-65
+    Notes with no text (the text was blank but there was text in the 
+    SW drawing) were being labeled as missing. Commenting out these lines
+    makes sure that all balloons/notes are evaluated.
+
+MarkingTemplateGui.mlapp: anywhere with IndArr followed by Ind = IndArr(end)   (eg: lines 721-722)
+    View names with a colon in the name were causing issues when 
+    selecting different features in the modifying key template GUI.
+    Searched for the last colon in the name rather than the first.
+
+File Locations
+    In V5, whenever a file had to be selected by the user, the dialog prompt
+    would default by opening on the current working directory. We changed this
+    so that all file selection prompts default to open one level above the 
+    student folder. If no student folder is selected, the prompt will open
+    in the current working directory.
+    Changes: MarkingGui.mlapp unpackEclassZipButtonPushed(), LoadTemplateButtonPushed(),
+             MakeTemplateButtonPushed(), RunSolidWorksMacroPushed. In all cases
+             we passed a value for default file location to uigetfile.
+             AutoMacroGUI.mlapp SelectFolderButtonPushed. Passed a value to uigetdir.
+
+All Key Templates re-created in new version of SolidWorks (2022-2023)
