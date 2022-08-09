@@ -1,3 +1,7 @@
+Contributors: Zachary Schmidt, Jason Kim
+Oversight: Dr. David Nobes
+Summer 2022
+
 Bugs found in AutoMARK V5 (changes made in V6):
 
 createStudentPDF.m: lines 43-46
@@ -37,11 +41,15 @@ File Locations
     in the current working directory.
     Changes: MarkingGui.mlapp unpackEclassZipButtonPushed(), LoadTemplateButtonPushed(),
              MakeTemplateButtonPushed(), RunSolidWorksMacroPushed. In all cases
-             we passed a value for default file location to uigetfile.
+             we passed a value for default file location to uigetfile or uiputfile.
              AutoMacroGUI.mlapp SelectFolderButtonPushed. Passed a value to uigetdir.
 
 criterionDimensionValue.m: lines 25-35
 	In V5, chamfer dimensions that were (180-key_angle) were being marked as wrong.
     Change was made to allow diff to be the lesser of student_angle or 180-student_angle.
 
-All Key Templates re-created in new version of SolidWorks (2022-2023)
+makeTemplateFromKey.m line 209-219 and criterionCenterlinePosition.m line 11:
+    Default key template assigned default tolerance box to be +/-0.003mm around the ends
+    of each centerline. We changed this so that if the centerline is less than 45 degrees
+    from horizontal, the tolerance box is +/-0.008mm in x and +/-0.002mm in y (vice versa for
+    centerlines with an angle greater than 45 degreees from horizontal).

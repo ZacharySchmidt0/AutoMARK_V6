@@ -1,18 +1,27 @@
 Automark 6.0 (Jason Kim, Zachary Schmidt; Summer 2022)
+	A comprehensive list of changes made in V6 (including file names & line numbers)
+	is found in Bugs_In_AutoMARK_V5.txt
 	Bug Fixes
-		Frequent issue in Marking Criterion with usage of strcmp when data is bool
-		Balloons/Notes with short (less than 2 chars) were not being added to linker. Changed so that all balloons/notes are now added.
+		Frequent issue in Marking Criterion with usage of strcmp when data is bool.
+		Short balloons/notes (less than 2 chars) were not being added to linker; 
+		changed so that all balloons/notes are now added.
 	Report
-		Turning off all criteria for a template feature (dimension, datum, etc.) results in no mark-up (checkmark) on report
+		Turning off all criteria for a template feature (dimension, datum, etc.) results 
+		in no mark-up (checkmark) on report.
 	SolidWorks Macros
-		Font info was being pulled from the student but not the key. Added this to key macro.
+		Font info for BOM table was being pulled from the student but not the key. Added this to key macro.
 	File Locations
 		The prompt for selecting files would previously default to the current working Matlab directory.
 		It was very annoying to keep navigating to the same place. We instead passed the directory one
-		level above the student folder to uigetfile & uigetdir.
+		level above the student folder to uigetfile, uiputfile, & uigetdir.
 	Chamfer Dimensions
 		Change was made to accept angle or 180-angle. This is more fair since
 		chamfer angles of 45 and 135 mean the same thing.
+	Centerline Tolerance Boxes
+		In V5, the tolerance boxes in the default template were +/-0.003mm for centerlines.
+		We changed this so the default for centerlines that are less than 45 degrees from
+		horizontal have +/-0.008mm tolerance in x and +/-0.002mm tolerance in y (and vice versa
+		for centerlines that are greater than 45 degrees from horziontal).
 
 
 Automark 5.0
