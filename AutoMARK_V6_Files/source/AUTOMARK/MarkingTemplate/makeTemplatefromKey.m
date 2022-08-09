@@ -95,6 +95,10 @@ newTemplate.roottemplatecell = buildCell(keyDrawing);
                 for i = 1:numel(markingCriterionSet.sheetCriterion)
                     newCrit = markingCriterionSet.sheetCriterion{i};
                     
+                    % set the sheet view types as disabled by default
+                    if strcmp(class(newCrit), 'criterionSheetViewTypes')
+                        newCrit.adddisabled = 1;
+                    end
                     returnedCell.addCriterion(copy(newCrit), newCrit.recommendedweight);
                     totalWeight = totalWeight + newCrit.recommendedweight;
                 end
