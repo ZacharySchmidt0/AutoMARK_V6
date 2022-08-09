@@ -8,7 +8,7 @@ classdef criterionCenterlinePostion < baseCriterion
             obj.description = "Correct if both ends are inside given rectangle(s)!";
             obj.tolerancetip = "Rectangles are a set of rectangles given as boxes around the endpoints, units are meters and you can add more rectangles by adding additional rows of 4 numbers as xmin, ymin, xmax, ymax. Each rectangle shows up at both ends! Note if you use the click functionality, test it around one point first, then test it around the other";
             
-            obj.tolerance.rectangles = [-0.003, -0.003, 0.003, 0.003];
+            obj.tolerance.rectangles = [-0.002, -0.008, 0.002, 0.008];
         end
         
         function multiplier = evaluateOn(obj, linker, keyFeature, studentReport, relevantSheetHandler, doAnnotations,criterionColours)

@@ -206,6 +206,18 @@ newTemplate.roottemplatecell = buildCell(keyDrawing);
                 for i = 1:numel(markingCriterionSet.centerlineCriterion)
                     newCrit = markingCriterionSet.centerlineCriterion{i};
                     
+                    % Determine if tolerance box should be horizontal or
+                    % vertical based on angle centlerine is at
+                    angleFromHoriz = atan((someFeature.endy-someFeature.starty)/(someFeature.endx-someFeature.startx));
+                    if angleFromHoriz < pi/4 && strcmp(class(newCrit), 'criterionCenterlinePostion')
+                        % angle between centerline and horizontal is < 45
+                        % deg, make tolerance box horziontal
+                        newCrit.tolerance.rectangles(1) = -0.008;
+                        newCrit.tolerance.rectangles(2) = -0.002;
+                        newCrit.tolerance.rectangles(3) = 0.008;
+                        newCrit.tolerance.rectangles(4) = 0.002;
+                    end
+                    
                     returnedCell.addCriterion(copy(newCrit), newCrit.recommendedweight);
                 end
                 returnedCell.weight = markingCriterionSet.defaultCenterlineWeight;
