@@ -131,7 +131,7 @@ newTemplate.roottemplatecell = buildCell(keyDrawing);
                 for i = 1:someFeature.numcentermarks
                     % If the centermark is deleted, ignore it! Also if
                     % invisible
-                    if strcmp(someFeature.childcentermarks(i).isdeleted, 'true')
+                    if someFeature.childcentermarks(i).isdeleted
                         continue
                     end
                     
