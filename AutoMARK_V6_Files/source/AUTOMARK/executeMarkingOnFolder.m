@@ -48,12 +48,25 @@ studentFolders(1:2) = [];
 sheetScores = zeros(1, numel(studentFolders));
 studentCount = 1;
 badCount = 1;
+timeStart = tic;  % start stopwatch
 for i = 1:numel(studentFolders)
     studentFolderStruct = studentFolders(i);
     fprintf("Attempting Folder ""%s""\n", studentFolderStruct.name); 
     markSingle(fullfile(studentFolderStruct.folder, studentFolderStruct.name));
     studentCount = studentCount + 1;
-    markingGUI.TextArea.Value = sprintf("Processed %d out of %d", i, numel(studentFolders)); 
+    markingGUI.TextArea.Value = sprintf("Processed %d out of %d", i, numel(studentFolders));
+
+    % estimate time left to finish marking by finding average time to mark 
+    % students already done and extrapolate to number of remaining students
+    timeElapsed = toc(timeStart);
+    timeLeft = (timeElapsed/i)*(numel(studentFolders)-i);
+    hoursLeft = round(floor(timeLeft/3600));
+    timeLeft = timeLeft - hoursLeft;
+    minsLeft = round(floor(timeLeft/60));
+    timeLeft = timeLeft - minsLeft;
+    secsLeft = round(timeLeft);
+
+    markingGUI.logOutput(sprintf("Estimated Time Remaining: %d hours, %d mins, %d secs", hoursLeft, minsLeft, secsLeft), 3);
 end
 
 % creates arrays that indicate if submissions are unique
@@ -284,7 +297,7 @@ createClassReport(submissionFolder, sheetScores, markingGUI.settings, poorPerfor
         
         if success
             fprintf(logFile, 'SUCCESS\n');
-            markingGUI.logOutput('Sucessfully marked student!', 2);
+            markingGUI.logOutput('Successfully marked student!', 2);
         else
             fprintf(logFile, sprintf('FAILED! Reason: %s\n', crashed_on));
             % print file name

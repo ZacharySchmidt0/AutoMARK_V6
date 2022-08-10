@@ -25,11 +25,16 @@
 					document.getElementById("log").insertAdjacentHTML("afterbegin",
 						"<span style='color:red'>" + output + "</span>");
 				}
-				else{
+				else if(errorCode == "2"){
 					document.getElementById("log").insertAdjacentHTML("afterbegin","<br>");
 					document.getElementById("log").insertAdjacentHTML("afterbegin",
 						"<span style='color:green'>" + output + "</span>");
 				} 
+				else {
+					document.getElementById("log").insertAdjacentHTML("afterbegin","<br>");
+					document.getElementById("log").insertAdjacentHTML("afterbegin",
+						"<span style='color:blue'>" + output + "</span>");
+				}
 				
 			})
 		}
