@@ -53,3 +53,9 @@ makeTemplateFromKey.m line 209-219 and criterionCenterlinePosition.m line 11:
     of each centerline. We changed this so that if the centerline is less than 45 degrees
     from horizontal, the tolerance box is +/-0.008mm in x and +/-0.002mm in y (vice versa for
     centerlines with an angle greater than 45 degreees from horizontal).
+
+executeMarkingOnFolder.m line 59-69 & runMacros.m lines 76-86:
+    This is where the "Estimated Time Remaining" feature is implemented. It works
+    by using a stopwatch to calculate the average time to mark one student up to that
+    point and multiplying this rate by the number of remaining students to get a 
+    time estimate.

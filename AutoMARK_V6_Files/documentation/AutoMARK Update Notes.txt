@@ -22,6 +22,11 @@ Automark 6.0 (Jason Kim, Zachary Schmidt; Summer 2022)
 		We changed this so the default for centerlines that are less than 45 degrees from
 		horizontal have +/-0.008mm tolerance in x and +/-0.002mm tolerance in y (and vice versa
 		for centerlines that are greater than 45 degrees from horziontal).
+	Estimated Time Remaining
+		A feature that estimates the time remaining after executing (marking or running macros)
+		on one student was added as a replacement for the email feature. The feature will calculate 
+		the average time to mark one student up to that point and multiply this rate by the number 
+		of remaining students to get a time estimate.
 
 
 Automark 5.0
