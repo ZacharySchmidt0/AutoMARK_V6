@@ -35,6 +35,7 @@ function swApp = runMacros(folderPath, macroPath, moduleName,app)
             app.logOutput(sprintf('Opened Successfully'), 2);
             % can we see solidworks
             set(swApp, 'Visible', app.visible);
+            timeStart = tic;
             for i = 1:length(studentDir)
                 % get a list of all drawing files in student dir
                 if strcmp(moduleName, 'Export_DRW_and_SM_vEclass1')
@@ -71,6 +72,18 @@ function swApp = runMacros(folderPath, macroPath, moduleName,app)
                         ' drawings only one was extracted'], fileList(1).folder), 1);
                 end
                 app.logOutput(sprintf("Processed %d folders out of %d total folders", i,length(studentDir)));
+
+                % estimate time left to finish marking by finding average time to mark 
+                % students already done and extrapolate to number of remaining students
+                timeElapsed = toc(timeStart);
+                timeLeft = (timeElapsed/i)*(length(studentDir)-i);
+                hoursLeft = round(floor(timeLeft/3600));
+                timeLeft = timeLeft - 3600*hoursLeft;
+                minsLeft = round(floor(timeLeft/60));
+                timeLeft = timeLeft - 60*minsLeft;
+                secsLeft = round(timeLeft);
+            
+                app.logOutput(sprintf("Estimated Time Remaining: %d hours, %d mins, %d secs", hoursLeft, minsLeft, secsLeft), 3);
             end
             
 end

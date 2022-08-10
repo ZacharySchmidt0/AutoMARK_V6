@@ -61,9 +61,9 @@ for i = 1:numel(studentFolders)
     timeElapsed = toc(timeStart);
     timeLeft = (timeElapsed/i)*(numel(studentFolders)-i);
     hoursLeft = round(floor(timeLeft/3600));
-    timeLeft = timeLeft - hoursLeft;
+    timeLeft = timeLeft - 3600*hoursLeft;
     minsLeft = round(floor(timeLeft/60));
-    timeLeft = timeLeft - minsLeft;
+    timeLeft = timeLeft - 60*minsLeft;
     secsLeft = round(timeLeft);
 
     markingGUI.logOutput(sprintf("Estimated Time Remaining: %d hours, %d mins, %d secs", hoursLeft, minsLeft, secsLeft), 3);
