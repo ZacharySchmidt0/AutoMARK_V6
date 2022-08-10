@@ -12,7 +12,6 @@ Marking "MecE265_Ass01_dnobes" of type Drawing
  |  | Template of Sheet "OTHO" was found to match
  |  | No extra BOMs were found!
  |  | No extra views were found!
- |  | View types of Sheet "OTHO" was found to match
  |  | Balloon lines did not intersect!
  |  | Type of View Mass was found to match
  |  | Giving leway by reducing deductions

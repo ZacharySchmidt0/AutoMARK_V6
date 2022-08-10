@@ -19,7 +19,7 @@ classdef criterionFeatureDangling < baseCriterion
             
             studentFeature = linker.returnPair(keyFeature);
             
-            if strcmp(studentFeature.isdangling, 'true')
+            if studentFeature.isdangling
                 multiplier = 1;
             end
             

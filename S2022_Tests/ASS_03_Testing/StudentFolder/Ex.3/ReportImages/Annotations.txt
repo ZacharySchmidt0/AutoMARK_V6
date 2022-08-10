@@ -12,7 +12,6 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  | Template of Sheet "Exploded" was found to match
  |  | No extra BOMs were found!
  |  | No extra views were found!
- |  | View types of Sheet "Exploded" was found to match
  |  | Balloon lines did not intersect!
  |  | Type of View Mass was found to match
  |  | Giving leway by reducing deductions
@@ -126,7 +125,6 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  | Template of Sheet "AssemblySection" was found to match
  |  | No extra BOMs were found!
  |  | No extra views were found!
- |  | View types of Sheet "AssemblySection" was found to match
  |  | Balloon lines did not intersect!
  |  | Type of View Mass was found to match
  |  | Giving leway by reducing deductions
@@ -339,7 +337,6 @@ Marking "MecE265_Car_Hub_Rim_Tire_SOLUTION" of type Drawing
  |  | Template of Sheet "Rim" was found to match
  |  | No extra BOMs were found!
  |  | No extra views were found!
- |  | View types of Sheet "Rim" was found to match
  |  | Balloon lines did not intersect!
  |  | Type of View Mass was found to match
  |  | Giving leway by reducing deductions

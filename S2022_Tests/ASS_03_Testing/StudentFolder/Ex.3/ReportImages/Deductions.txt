@@ -25,7 +25,6 @@ Cell
  |  | criterionSheetTemplateIN : 0
  |  | criterionSheetExtraBOMs : 0
  |  | criterionSheetExtraViews : 0
- |  | criterionSheetViewTypes : 0
  |  | criterionSheetIntersectingBalloons : 0
  |  | criterionSheetMass : 0
  |  | criterionAlwaysWrong : -0
@@ -195,7 +194,6 @@ Cell
  |  | criterionSheetTemplateIN : 0
  |  | criterionSheetExtraBOMs : 0
  |  | criterionSheetExtraViews : 0
- |  | criterionSheetViewTypes : 0
  |  | criterionSheetIntersectingBalloons : 0
  |  | criterionSheetMass : 0
  |  | criterionAlwaysWrong : -0
@@ -486,7 +484,6 @@ Cell
  |  | criterionSheetTemplateIN : 0
  |  | criterionSheetExtraBOMs : 0
  |  | criterionSheetExtraViews : 0
- |  | criterionSheetViewTypes : 0
  |  | criterionSheetIntersectingBalloons : 0
  |  | criterionSheetMass : 0
  |  | criterionAlwaysWrong : -0
