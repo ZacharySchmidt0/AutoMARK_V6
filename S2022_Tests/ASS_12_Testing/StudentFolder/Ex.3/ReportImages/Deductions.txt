@@ -3,8 +3,8 @@ A very verbose log of the student's score
 
 Cell
  | Weight: 627
- | Deductions: 141
- | Score: 486
+ | Deductions: 131
+ | Score: 496
  | 
  | Deductions:
  | criterionDrawingSheetOrder : 0
@@ -15,8 +15,8 @@ Cell
  | 
  | Cell
  |  | Weight: 610
- |  | Deductions: 141
- |  | Score: 469
+ |  | Deductions: 131
+ |  | Score: 479
  |  | 
  |  | Deductions:
  |  | criterionSheetName : 0
@@ -25,7 +25,6 @@ Cell
  |  | criterionSheetTemplateIN : 0
  |  | criterionSheetExtraBOMs : 0
  |  | criterionSheetExtraViews : 0
- |  | criterionSheetViewTypes : 10
  |  | criterionSheetIntersectingBalloons : 0
  |  | criterionSheetMass : 0
  |  | criterionAlwaysWrong : -0

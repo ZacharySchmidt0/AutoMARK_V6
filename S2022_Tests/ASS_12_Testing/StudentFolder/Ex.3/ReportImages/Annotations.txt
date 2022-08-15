@@ -12,7 +12,6 @@ Marking "MecE_265_Ass12_W2021_AutoMARK" of type Drawing
  |  | Template of Sheet "SOLUTION" was found to match
  |  | No extra BOMs were found!
  |  | No extra views were found!
- |  | View types of Sheet "SOLUTION" did not match key
  |  | Balloon lines did not intersect!
  |  | Type of View Mass was found to match
  |  | Giving leway by reducing deductions
@@ -939,10 +938,10 @@ Marking "MecE_265_Ass12_W2021_AutoMARK" of type Drawing
  |  | 
  |  | A feature Drawing View2 of type View was expected, but was missing on the student drawing!
  | Done Marking "SOLUTION" of type Sheet
- | Deduction 141/610
+ | Deduction 131/610
 Done Marking "MecE_265_Ass12_W2021_AutoMARK" of type Drawing
-Deduction 141/627
+Deduction 131/627
 
-Overall Mark 486 / 627
+Overall Mark 496 / 627
 
 End of Report

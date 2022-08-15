@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.24)  6 JUL 2022 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.8.5)  15 AUG 2022 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -803,7 +803,7 @@ ASS_12_Testing/StudentFolder/Ex.4/KeySheets/SOLUTION.png (PNG copy)>]
 \AutoMARK_V6\S2022_Tests\ASS_12_Testing\StudentFolder\Ex.4\report.aux) ) 
 Here is how much of TeX's memory you used:
  19361 strings out of 478614
- 376090 string characters out of 2843122
+ 376090 string characters out of 2843123
  632016 words of memory out of 3000000
  37202 multiletter control sequences out of 15000+600000
  472399 words of font info for 38 fonts, out of 8000000 for 9000
@@ -822,7 +822,7 @@ Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/zacha/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
 Output written on "C:\Users\zacha\OneDrive\Desktop\Ualberta Summer 2022 Co-op\S
 olidWorks\AutoMARK\AutoMARK_V6\S2022_Tests\ASS_12_Testing\StudentFolder\Ex.4\re
-port.pdf" (5 pages, 691909 bytes).
+port.pdf" (5 pages, 684389 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)

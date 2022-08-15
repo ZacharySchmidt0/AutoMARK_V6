@@ -3,8 +3,8 @@ A very verbose log of the student's score
 
 Cell
  | Weight: 290
- | Deductions: 20
- | Score: 270
+ | Deductions: 21
+ | Score: 269
  | 
  | Deductions:
  | criterionDrawingSheetOrder : 0
@@ -15,8 +15,8 @@ Cell
  | 
  | Cell
  |  | Weight: 273
- |  | Deductions: 20
- |  | Score: 253
+ |  | Deductions: 21
+ |  | Score: 252
  |  | 
  |  | Deductions:
  |  | criterionSheetName : 0
@@ -25,7 +25,6 @@ Cell
  |  | criterionSheetTemplateIN : 0
  |  | criterionSheetExtraBOMs : 0
  |  | criterionSheetExtraViews : 0
- |  | criterionSheetViewTypes : 0
  |  | criterionSheetIntersectingBalloons : 0
  |  | criterionSheetMass : 0
  |  | criterionAlwaysWrong : -0
@@ -58,6 +57,7 @@ Cell
  |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
@@ -72,6 +72,13 @@ Cell
  |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 0
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
@@ -121,6 +128,9 @@ Cell
  |  |  |  | Score: 3
  |  |  |  | 
  |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionCenterlinePostion : 0
+ |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
@@ -352,8 +362,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 32
- |  |  | Deductions: 6
- |  |  | Score: 26
+ |  |  | Deductions: 7
+ |  |  | Score: 25
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionViewPosition : 6
@@ -372,10 +382,17 @@ Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 0
- |  |  |  | Score: 5
+ |  |  |  | Deductions: 1
+ |  |  |  | Score: 4
  |  |  |  | 
  |  |  |  | Deductions:
+ |  |  |  | criterionFeatureDangling : 0
+ |  |  |  | criterionDimensionWrongView : 0
+ |  |  |  | criterionDimensionPostion : 1
+ |  |  |  | criterionDimensionArrowSide : 0
+ |  |  |  | criterionDimensionValue : 0
+ |  |  |  | criterionDimensionBadText : 0
+ |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell

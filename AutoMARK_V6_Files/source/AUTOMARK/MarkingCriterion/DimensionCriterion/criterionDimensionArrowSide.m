@@ -40,7 +40,7 @@ classdef criterionDimensionArrowSide < baseCriterion
             if (studentFeature.arrowside == 0 && keyFeature.arrowside == 1) || (studentFeature.arrowside == 1 && keyFeature.arrowside == 0)
                 % Only true if the key has both arrows and the student has
                 % both arrows.
-                if hasArrow(studentFeature, 1) && hasArrow(studentFeature, 2) && hasArrow(keyFeature, 1) && hasArrow(keyFeature, 2)
+                if (hasArrow(studentFeature, 1) || hasArrow(studentFeature, 2)) && (hasArrow(keyFeature, 1) || hasArrow(keyFeature, 2))
                     multiplier = 1;
                 end
             end
