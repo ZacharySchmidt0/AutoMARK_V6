@@ -27,6 +27,11 @@ Automark 6.0 (Jason Kim, Zachary Schmidt; Summer 2022)
 		on one student was added as a replacement for the email feature. The feature will calculate 
 		the average time to mark one student up to that point and multiply this rate by the number 
 		of remaining students to get a time estimate.
+	ArrowSide criterion
+		An assumption was made that dimensions only have two arrowheads. This is not true
+		and was resulting in dimensions with the wrong arrowside being marked correct.
+		Changes to the macros when pulling arrowSide data were made as well as in Matlab
+		in the marking criterion to handle the case for dimensions with only one arrow head.
 
 
 Automark 5.0

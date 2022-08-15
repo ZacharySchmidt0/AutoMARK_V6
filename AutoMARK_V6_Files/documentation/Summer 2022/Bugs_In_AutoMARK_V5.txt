@@ -59,3 +59,11 @@ executeMarkingOnFolder.m line 59-69 & runMacros.m lines 76-86:
     by using a stopwatch to calculate the average time to mark one student up to that
     point and multiplying this rate by the number of remaining students to get a 
     time estimate.
+
+criterionDimensionArrowSide.m line 43:
+    Previous coders assumed a dimension only has two arrowheads so all
+    logical oeprators were &&. Change was made since a dimension might only
+    have one arrowhead.
+    Another change was made in the macros in the fillDimensionProperies subroutine
+    where the same assumption was made when calculating dotArrowHead.
+    The else branch was changed to simply used the built in .arrowSide.
