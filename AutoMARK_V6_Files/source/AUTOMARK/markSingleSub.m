@@ -29,7 +29,7 @@ function markSingleSub(stuFolder, keyTemplate, markingGUI)
     % Mark a single student drawing folder
     markingGUI.logOutput(sprintf('Checking folder "%s"', stuFolder), 0);
     fprintf(logFile, 'Marking "%s" --\t\t\t-- ', stuFolder);
-    % Look for the Excell Extract file
+    % Look for the Excel Extract file
     drwfile = fullfile(stuFolder, 'ExcelExtract.xlsx');
     
     
@@ -59,8 +59,8 @@ function markSingleSub(stuFolder, keyTemplate, markingGUI)
         % Make a report for them
         studentReport = markingReport2(studentDrawing);
         crashed_on = 'Executing Marking';
+
         % Execute marking on them
-       
         studentLinker = executeMarking(keyTemplate, studentReport, criterionColours, 0);
         % files to show up in spread sheet
         titleBlockMessage = checkTitleBlock(dir(fullfile(stuFolder, 'Sheets')), studentDrawing, studentReport);
@@ -150,7 +150,6 @@ function markSingleSub(stuFolder, keyTemplate, markingGUI)
     fprintf(logFile, '\nLog End\n');
     fclose(logFile);
 
-
     function message = checkTitleBlock(studentDIR, studentDrawing, studentReport)
         % add java classes to read pdf
         javaaddpath(fullfile(cd, 'source', 'REPORTTOOLS', 'PDFRead', 'iText-4.2.0-com.itextpdf.jar'));
@@ -175,7 +174,6 @@ function markSingleSub(stuFolder, keyTemplate, markingGUI)
                     return;
                 end
                 % find a piece of text that will always be there
-
                 newText = split(text{l-2}, char(10));
                 for k = 1:numel(newText)
                     if strcmp(newText(k), 'FILE NAME:')
