@@ -1,8 +1,14 @@
+% Marks a single submission subfolder within the Student Folder.
+% Called on "Run Marking on 1 Student" button push. Similar to markSingle() 
+% with some tweaks.
+% Parameters:
+%   stuFolder - string name of the subfolder within Student Folder to be
+%   marked
+%   keyTemplate - template used to mark the student
+%   markingGUI - GUI object used to print output messages
 function markSingleSub(stuFolder, keyTemplate, markingGUI)
-    tic(); % Start timer
-
-    criterionColours = criterionColoursClass();
-    sheetScores = zeros(1, 1);
+    criterionColours = criterionColoursClass();  % sets colors used in markup
+    sheetScores = zeros(1, 1);  % initializing for one student
 
     % creates a text file in submissionFolder called "Marking Log <date>"
     logFileName = fullfile(stuFolder, sprintf('Marking Log %s.txt', datestr(now,'yyyy-mm-dd-hh-MM-ss')));
