@@ -90,11 +90,11 @@ Marking "MecE265_Ass02_kingma" of type Drawing
  |  |  |  | Dimension "RD3" was on the correct view
  |  |  |  | Dimension "RD3" was in a suitable location
  |  |  |  | Dimension "RD3" had appropriate arrows
- |  |  |  | Dimension "RD3" didn't have the correct value, had (8) expected (8)
+ |  |  |  | Dimension "RD3" had the correct value!
  |  |  |  | Dimension "RD3" had acceptable text
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD3" of type Dimension
- |  |  | Deduction 2/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "DetailItem220" of type Centerline
  |  |  |  | Centerline DetailItem220 was properly attached!
@@ -149,7 +149,7 @@ Marking "MecE265_Ass02_kingma" of type Drawing
  |  |  | Done Marking "DetailItem224" of type Datum
  |  |  | Deduction 0/5
  |  | Done Marking "Drawing View4" of type View
- |  | Deduction 5/73
+ |  | Deduction 3/73
  |  | 
  |  | Marking "Drawing View5" of type View
  |  |  | View "Drawing View5" was in a suitable location
@@ -191,40 +191,40 @@ Marking "MecE265_Ass02_kingma" of type Drawing
  |  |  |  | Dimension "RD3" was on the correct view
  |  |  |  | Dimension "RD3" was in a suitable location
  |  |  |  | Dimension "RD3" had appropriate arrows
- |  |  |  | Dimension "RD3" didn't have the correct value, had (13) expected (13)
+ |  |  |  | Dimension "RD3" had the correct value!
  |  |  |  | Dimension "RD3" had acceptable text
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD3" of type Dimension
- |  |  | Deduction 2/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "RD2" of type Dimension
  |  |  |  | Dimension RD2 was properly attached!
  |  |  |  | Dimension "RD2" was on the correct view
  |  |  |  | Dimension "RD2" was in a suitable location
  |  |  |  | Dimension "RD2" had appropriate arrows
- |  |  |  | Dimension "RD2" didn't have the correct value, had (25) expected (25)
+ |  |  |  | Dimension "RD2" had the correct value!
  |  |  |  | Dimension "RD2" had acceptable text
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD2" of type Dimension
- |  |  | Deduction 2/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "RD5" of type Dimension
  |  |  |  | Dimension RD5 was properly attached!
  |  |  |  | Dimension "RD5" was on the correct view
  |  |  |  | Dimension "RD5" was in a suitable location
  |  |  |  | Dimension "RD5" had appropriate arrows
- |  |  |  | Dimension "RD5" didn't have the correct value, had (52) expected (52)
+ |  |  |  | Dimension "RD5" had the correct value!
  |  |  |  | Dimension "RD5" had acceptable text
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD5" of type Dimension
- |  |  | Deduction 2/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "DetailItem218" of type Centerline
  |  |  |  | Centerline DetailItem218 was properly attached!
- |  |  |  | Centerline "DetailItem218" was in a suitable location
+ |  |  |  | Centerline "DetailItem218" wasn't in a suitable location
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "DetailItem218" of type Centerline
- |  |  | Deduction 0/3
+ |  |  | Deduction 1/3
  |  |  | 
  |  |  | Marking "DetailItem217-1" of type Centermark
  |  |  |  | Centermark DetailItem217-1 was properly attached!
@@ -298,7 +298,7 @@ Marking "MecE265_Ass02_kingma" of type Drawing
  |  |  | Done Marking "DetailItem215" of type Datum
  |  |  | Deduction 0/5
  |  | Done Marking "Drawing View5" of type View
- |  | Deduction 9/75
+ |  | Deduction 4/75
  |  | 
  |  | Marking "Drawing View9" of type View
  |  |  | View "Drawing View9" was in a suitable location
@@ -333,11 +333,11 @@ Marking "MecE265_Ass02_kingma" of type Drawing
  |  |  |  | Dimension "RD1" was on the correct view
  |  |  |  | Dimension "RD1" was in a suitable location
  |  |  |  | Dimension "RD1" had appropriate arrows
- |  |  |  | Dimension "RD1" didn't have the correct value, had (3) expected (3)
+ |  |  |  | Dimension "RD1" had the correct value!
  |  |  |  | Dimension "RD1" had acceptable text
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD1" of type Dimension
- |  |  | Deduction 2/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "RD2" of type Dimension
  |  |  |  | Dimension RD2 was properly attached!
@@ -355,44 +355,44 @@ Marking "MecE265_Ass02_kingma" of type Drawing
  |  |  |  | Dimension "RD6" was on the correct view
  |  |  |  | Dimension "RD6" was in a suitable location
  |  |  |  | Dimension "RD6" had appropriate arrows
- |  |  |  | Dimension "RD6" didn't have the correct value, had (12) expected (12)
+ |  |  |  | Dimension "RD6" had the correct value!
  |  |  |  | Dimension "RD6" had acceptable text
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD6" of type Dimension
- |  |  | Deduction 2/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "RD5" of type Dimension
  |  |  |  | Dimension RD5 was properly attached!
  |  |  |  | Dimension "RD5" was on the correct view
  |  |  |  | Dimension "RD5" was in a suitable location
  |  |  |  | Dimension "RD5" had appropriate arrows
- |  |  |  | Dimension "RD5" didn't have the correct value, had (21) expected (21)
+ |  |  |  | Dimension "RD5" had the correct value!
  |  |  |  | Dimension "RD5" had acceptable text
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD5" of type Dimension
- |  |  | Deduction 2/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "RD4" of type Dimension
  |  |  |  | Dimension RD4 was properly attached!
  |  |  |  | Dimension "RD4" was on the correct view
  |  |  |  | Dimension "RD4" was in a suitable location
  |  |  |  | Dimension "RD4" had appropriate arrows
- |  |  |  | Dimension "RD4" didn't have the correct value, had (6) expected (6)
+ |  |  |  | Dimension "RD4" had the correct value!
  |  |  |  | Dimension "RD4" had acceptable text
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD4" of type Dimension
- |  |  | Deduction 2/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "RD3" of type Dimension
  |  |  |  | Dimension RD3 was properly attached!
  |  |  |  | Dimension "RD3" was on the correct view
  |  |  |  | Dimension "RD3" was in a suitable location
  |  |  |  | Dimension "RD3" had appropriate arrows
- |  |  |  | Dimension "RD3" didn't have the correct value, had (9) expected (9)
+ |  |  |  | Dimension "RD3" had the correct value!
  |  |  |  | Dimension "RD3" had acceptable text
  |  |  |  | Giving leway by reducing deductions
  |  |  | Done Marking "RD3" of type Dimension
- |  |  | Deduction 2/5
+ |  |  | Deduction 0/5
  |  |  | 
  |  |  | Marking "DetailItem227" of type Centerline
  |  |  |  | Centerline DetailItem227 was properly attached!
@@ -401,12 +401,12 @@ Marking "MecE265_Ass02_kingma" of type Drawing
  |  |  | Done Marking "DetailItem227" of type Centerline
  |  |  | Deduction 0/3
  |  | Done Marking "Section View A-A" of type View
- |  | Deduction 13/55
+ |  | Deduction 3/55
  | Done Marking "Sheet1" of type Sheet
- | Deduction 37/274
+ | Deduction 20/274
 Done Marking "MecE265_Ass02_kingma" of type Drawing
-Deduction 37/291
+Deduction 20/291
 
-Overall Mark 254 / 291
+Overall Mark 271 / 291
 
 End of Report

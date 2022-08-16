@@ -3,8 +3,8 @@ A very verbose log of the student's score
 
 Cell
  | Weight: 291
- | Deductions: 37
- | Score: 254
+ | Deductions: 20
+ | Score: 271
  | 
  | Deductions:
  | criterionDrawingSheetOrder : 0
@@ -15,8 +15,8 @@ Cell
  | 
  | Cell
  |  | Weight: 274
- |  | Deductions: 37
- |  | Score: 237
+ |  | Deductions: 20
+ |  | Score: 254
  |  | 
  |  | Deductions:
  |  | criterionSheetName : 0
@@ -34,8 +34,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 73
- |  |  | Deductions: 5
- |  |  | Score: 68
+ |  |  | Deductions: 3
+ |  |  | Score: 70
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionViewPosition : 0
@@ -129,15 +129,15 @@ Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 2
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
- |  |  |  | criterionDimensionValue : 2
+ |  |  |  | criterionDimensionValue : 0
  |  |  |  | criterionDimensionBadText : 0
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
@@ -218,8 +218,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 75
- |  |  | Deductions: 9
- |  |  | Score: 66
+ |  |  | Deductions: 4
+ |  |  | Score: 71
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionViewPosition : 0
@@ -268,57 +268,57 @@ Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 2
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
- |  |  |  | criterionDimensionValue : 2
+ |  |  |  | criterionDimensionValue : 0
  |  |  |  | criterionDimensionBadText : 0
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 2
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
- |  |  |  | criterionDimensionValue : 2
+ |  |  |  | criterionDimensionValue : 0
  |  |  |  | criterionDimensionBadText : 0
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 2
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
- |  |  |  | criterionDimensionValue : 2
+ |  |  |  | criterionDimensionValue : 0
  |  |  |  | criterionDimensionBadText : 0
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 3
- |  |  |  | Deductions: 0
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 1
+ |  |  |  | Score: 2
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
- |  |  |  | criterionCenterlinePostion : 0
+ |  |  |  | criterionCenterlinePostion : 1
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
@@ -436,8 +436,8 @@ Cell
  |  | 
  |  | Cell
  |  |  | Weight: 55
- |  |  | Deductions: 13
- |  |  | Score: 42
+ |  |  | Deductions: 3
+ |  |  | Score: 52
  |  |  | 
  |  |  | Deductions:
  |  |  | criterionViewPosition : 0
@@ -456,15 +456,15 @@ Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 2
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
- |  |  |  | criterionDimensionValue : 2
+ |  |  |  | criterionDimensionValue : 0
  |  |  |  | criterionDimensionBadText : 0
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
@@ -486,60 +486,60 @@ Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 2
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
- |  |  |  | criterionDimensionValue : 2
+ |  |  |  | criterionDimensionValue : 0
  |  |  |  | criterionDimensionBadText : 0
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 2
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
- |  |  |  | criterionDimensionValue : 2
+ |  |  |  | criterionDimensionValue : 0
  |  |  |  | criterionDimensionBadText : 0
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 2
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
- |  |  |  | criterionDimensionValue : 2
+ |  |  |  | criterionDimensionValue : 0
  |  |  |  | criterionDimensionBadText : 0
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
  |  |  | 
  |  |  | Cell
  |  |  |  | Weight: 5
- |  |  |  | Deductions: 2
- |  |  |  | Score: 3
+ |  |  |  | Deductions: 0
+ |  |  |  | Score: 5
  |  |  |  | 
  |  |  |  | Deductions:
  |  |  |  | criterionFeatureDangling : 0
  |  |  |  | criterionDimensionWrongView : 0
  |  |  |  | criterionDimensionPostion : 0
  |  |  |  | criterionDimensionArrowSide : 0
- |  |  |  | criterionDimensionValue : 2
+ |  |  |  | criterionDimensionValue : 0
  |  |  |  | criterionDimensionBadText : 0
  |  |  |  | criterionAlwaysWrong : -0
  |  |  | End Cell
