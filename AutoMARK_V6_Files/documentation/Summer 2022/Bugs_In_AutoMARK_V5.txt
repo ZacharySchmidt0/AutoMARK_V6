@@ -67,3 +67,20 @@ criterionDimensionArrowSide.m line 43:
     Another change was made in the macros in the fillDimensionProperies subroutine
     where the same assumption was made when calculating dotArrowHead.
     The else branch was changed to simply used the built in .arrowSide.
+
+MarkingGUI.mlapp (RunMarkingOn1StudentButton) and markSingleSub.macro:
+    A new button was added called "Run Marking on 1 Student" which marks
+    only one folder within the Student Folder. The same process is followed
+    as for regular marking with only minor tweaks within markSingleSub.m
+
+criterionSheetViewTypes.m lines 64-73:
+    The positioning of the markup for incorrect view types was moved from the
+    top left to the top right of the report to prevent overlap with the 
+    sheet score total.
+
+markingCriterionFolder:
+    In many of the markingCriterion files, floating point comparisons were
+    being done without any tolerancing. This is bad practice because 
+    floats are inherently inaccurate. In each case, a very small tolerance
+    was added to prevent correct answers being marked incorrect.
+    

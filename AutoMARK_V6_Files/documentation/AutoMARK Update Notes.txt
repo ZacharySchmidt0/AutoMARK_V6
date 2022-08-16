@@ -32,6 +32,21 @@ Automark 6.0 (Jason Kim, Zachary Schmidt; Summer 2022)
 		and was resulting in dimensions with the wrong arrowside being marked correct.
 		Changes to the macros when pulling arrowSide data were made as well as in Matlab
 		in the marking criterion to handle the case for dimensions with only one arrow head.
+	"Run Marking on 1 Student" Button
+		The ability to mark one inidividual student within the Student Folder was a 
+		feature deemed useful. To implement this, we added a new button that does the
+		same thing as the "Run Marking" button but only for one student. The function
+		markSingle() was resused with only small tweaks.
+	Overlapping markup in top left
+		In V5, if the view types were incorrect, the markup would overlap with the totals
+		in the top left of the report. To correct this, the markup for view types was moved
+		to the top right of the report.
+	Comparison of floating point values during marking
+		We frequently noticed that correct submissions were being marked incorrect for
+		no apparent reason. Delving into the markingCriterion folder, we found there were
+		some floating point comparisons without any tolerancing (float == 0). This
+		is bad practice as floats are inherently inaccurate so a small factor was
+		added in all of these cases (float < 0.0001).
 
 
 Automark 5.0
