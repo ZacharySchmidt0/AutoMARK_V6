@@ -40,11 +40,11 @@ classdef criterionDimensionValue < baseCriterion
             % Both the same, students must be the same as well!
             if (abs(keyFeature.dimension1value - keyFeature.dimension2value) < 0.0001) && keyFeature.dimension1type == keyFeature.dimension2type
                 if keyFeature.dimension1type == 1
-                    if abs(diff) > obj.tolerance.angletolerance || toldif ~= 0 
+                    if abs(diff) > obj.tolerance.angletolerance + 0.0001 || abs(toldif) > 0.0001 
                         multiplier = 1;
                     end
                 else
-                    if abs(diff) > obj.tolerance.lineartolerance || toldif ~= 0
+                    if abs(diff) > obj.tolerance.lineartolerance + 0.0001 || abs(toldif) > 0.0001
                         multiplier = 1;
                     end
                 end
@@ -53,21 +53,21 @@ classdef criterionDimensionValue < baseCriterion
                 % Different
                 
                 if keyFeature.dimension1type == 1
-                    if abs(diff) > abs(obj.tolerance.angletolerance) + 0.0001 || toldif ~= 0
+                    if abs(diff) > abs(obj.tolerance.angletolerance) + 0.0001 || abs(toldif) > 0.0001
                         multiplier = 1;
                     end
                 else
-                    if abs(diff) > abs(obj.tolerance.lineartolerance) + 0.0001 || toldif ~= 0
+                    if abs(diff) > abs(obj.tolerance.lineartolerance) + 0.0001 || abs(toldif) > 0.0001
                         multiplier = 1;
                     end
                 end
                 
                 if keyFeature.dimension2type == 1
-                    if abs(diff2) > abs(obj.tolerance.angletolerance) + 0.0001 || tol2dif ~= 0
+                    if abs(diff2) > abs(obj.tolerance.angletolerance) + 0.0001 || abs(tol2dif) > 0.0001
                         multiplier = multiplier + 1;
                     end
                 else
-                    if abs(diff2) > abs(obj.tolerance.lineartolerance) + 0.0001 || tol2dif ~= 0
+                    if abs(diff2) > abs(obj.tolerance.lineartolerance) + 0.0001 || abs(tol2dif) > 0.0001
                         multiplier = multiplier + 1;
                     end
                 end

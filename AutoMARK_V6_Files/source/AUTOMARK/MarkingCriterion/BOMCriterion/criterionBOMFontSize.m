@@ -21,7 +21,7 @@ classdef criterionBOMFontSize < baseCriterion
             
             studentFeature = linker.returnPair(keyFeature);
             
-            if abs(keyFeature.fontSize - studentFeature.fontSize) > abs(obj.tolerance.tolerance)
+            if abs(keyFeature.fontSize - studentFeature.fontSize) > abs(obj.tolerance.tolerance) + 0.0001
                 multiplier = 1;
             end
              x = studentFeature.xmin;

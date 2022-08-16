@@ -21,7 +21,7 @@ classdef criterionViewMass < baseCriterion
             
             studentFeature = linker.returnPair(keyFeature);
             try
-                if (abs(studentFeature.childsolidmodel.mass - keyFeature.childsolidmodel.mass) < obj.tolerance.tolerance)
+                if abs(studentFeature.childsolidmodel.mass - keyFeature.childsolidmodel.mass) < obj.tolerance.tolerance + 0.0001
                     multiplier = 1;
                 end
             catch
