@@ -11,6 +11,18 @@ Introduction
     matter of hours, greatly reducing the time required by TAs to manually
     grade assignments.
 
+Required Installs
+    - SolidWorks
+    - Microsoft Excel
+    - Matlab
+    - Matlab Add-Ons:
+        - Symbolic Math Toolbox
+        - Statistics and Machine Learning Toolbox
+        - Simulink
+        - Image Processing Toolbox
+        - Computer Vision Toolbox
+    - MiKTeX
+
 Marking Process Outline
     - First, the data from a SolidWorks drawing is acquired through the
       use of a VBScript Solidworks Macro (the .swp files). The macro is
@@ -19,8 +31,8 @@ Marking Process Outline
 
     - After running the macros on the answer key and student submissions,
       all of the data about the drawings is in Excel. Matlab can then very
-      easily parse these Excel files and create a template .mat variable
-      to store all of this data.
+      easily parse these Excel files and create objects representing a key
+      or student's drawing.
 
     - For each feature (sheet, view, centerline, dimension, etc.) if there is
       a difference wider than the acceptable tolerance between the student and key,
