@@ -80,18 +80,3 @@ Layout of Files/Folders
     MarkingTemplate
       Makes the key template (keytemplate.mat) from the ExcelExtract. Adds all
       of the crtierion to each feature.
-
-  GUI
-    AutoMacroGUI
-    DrawingEngine
-    Highlighting
-    Highlighting2
-    Highlighting3
-    infoGUI
-    MarkingGUI
-    settingsGUI
-    TemplateGUI
-
-  ReportTools
-    LatexPrinting
-    PDFRead
