@@ -47,6 +47,10 @@ Automark 6.0 (Jason Kim, Zachary Schmidt; Summer 2022)
 		some floating point comparisons without any tolerancing (float == 0). This
 		is bad practice as floats are inherently inaccurate so a small factor was
 		added in all of these cases (float < 0.0001).
+	Documentation Review
+		All documentation including the User Manual and various READMEs were reviewed
+		for readability and updated to match V6. A brief "Troubleshooting" section was 
+		added to the User Manual to help users deal with some common problems.
 
 
 Automark 5.0

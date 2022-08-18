@@ -1,6 +1,6 @@
 Contributors: Zachary Schmidt, Jason Kim
 Oversight: Dr. David Nobes
-Summer 2022
+University of Alberta, Summer 2022
 
 Bugs found in AutoMARK V5 (changes made in V6):
 
